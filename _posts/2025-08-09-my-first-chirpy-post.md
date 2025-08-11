@@ -2,11 +2,7 @@
 layout: post
 title: My First Chirpy Post
 date: 2025-08-09 22:00:00 +0530
-categories: [Jekyll, Blogging]
-tags: [Chirpy, Markdown, Sample]
-description: This is a sample post demonstrating the structure of a Chirpy blog post.
-image: /assets/img/sample-image.jpg
-pinned: false
+published: true
 ---
 
 # TATTVUM Java Kolam - 0.1 - (2002-06-23)
