@@ -9,22 +9,20 @@ image: /assets/img/sample-image.jpg
 pinned: false
 ---
 
-# Welcome to My Chirpy Blog!
+# TATTVUM Java Kolam - 0.1 - (2002-06-23)
+Post date: Nov 28, 2008 12:42:10 PM
 
-This is the body of my first post using the **Chirpy** theme for Jekyll.
+## Release Information
+**Note:** This is the initial PoPP release, containing the source and the binary, and a batch file to run the demo. For further details please browse the code (not much comments there too, except the class model and the moderately modularized code). More documentation will come soon.
 
-## Key Features
+**Requirements:** I use 1.4 Java, but this program doesn't use any 1.4 specific API. So, ideally it should run in any 1.2+ JVM. Please mail me (svramu at TATTVUM) if you run into problems. I'll also be checking it this week, and update about bugs in the next hosting.
 
-*   **Responsive Design:** Looks great on all devices.
-*   **Markdown Support:** Easy to write and format content.
-*   **Customization Options:** Tailor the theme to your needs.
+**Download the software:** `TATTVUM-PoPP-TJKolam-0.1-all.zip` (~14k)
 
-### Code Example
+**To Run the demo:** Execute the `RunDemo.bat` file in the downloaded zip.
 
-```python
-def hello_chirpy():
-    print("Hello from Chirpy!")
+## Download
+The software is available from the Google Drive folder linked below.
 
-hello_chirpy()
-```
+[Open Google Drive Folder](https://drive.google.com/folderview?id=1C0GV_J3_R9fBb4I4xlpQYvREZHLQIafc)
 
