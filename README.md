@@ -29,6 +29,22 @@ latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so tha
 
 Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
+Testing your GitHub Pages site locally with Jekyll - GitHub Docs
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+
+```bash
+svr@tnr: ...3: tattvum/svram---ub.io$ bundle exec jekyll serve # inside this repo's root folder where the Gemfile is.
+# Configuration file: /home/svr/tattvum/svramu.github.io/_config.yml
+#             Source: /home/svr/tattvum/svramu.github.io
+#        Destination: /home/svr/tattvum/svramu.github.io/_site
+#  Incremental build: disabled. Enable with --incremental
+#       Generating...
+#                     done in 0.798 seconds.
+#  Auto-regeneration: enabled for '/home/svr/tattvum/svramu.github.io'
+#     Server address: http://127.0.0.1:4000/
+#   Server running... press ctrl-c to stop.
+```
+
 ## Contributing
 
 This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
