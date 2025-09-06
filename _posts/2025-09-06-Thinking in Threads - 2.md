@@ -5,7 +5,7 @@ Analyzing the primitives
 
 **Recap**
 
-We'll start from where we left in the [first part of this series](http://tattvum.com/Articles/2002/2002-08/2002-08-06/Ramu-SE-20020803-ThinkingInThreads.html) on threads. The provoking question is, *Why do we need a `synchronized` keyword and two methods (`wait` and `notify`) to achieve synchronization in java?* We also found that the basic minimum that we want for synchronization is, just a way to `hold` a lock, or `allow` it being held by other threads. A typical implementation of this idiom could be as follows.
+We'll start from where we left in the [first part of this series](https://tattvum.com/Articles/2002/2002-08/2002-08-06/Ramu-SE-20020803-ThinkingInThreads.html) on threads. The provoking question is, *Why do we need a `synchronized` keyword and two methods (`wait` and `notify`) to achieve synchronization in java?* We also found that the basic minimum that we want for synchronization is, just a way to `hold` a lock, or `allow` it being held by other threads. A typical implementation of this idiom could be as follows.
 
 ```java
 public class Lock {

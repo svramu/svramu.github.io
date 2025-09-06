@@ -4,7 +4,7 @@ Quotes form the great masters
 
 *S V Ramu (2002-08-03)*
 
-This is a support page for the [Thinking in Threads](http://tattvum.com/Articles/2002/2002-08/2002-08-06/Ramu-SE-20020803-ThinkingInThreads.html) article. However much I resisted, I couldn't stop myself from sharing the following key quotes, from Andrew S. Tanenbaum (1995), Bruce Eckle (2000), and Borland help on Delphi and Win32. So hear it straight from the masters! (For more details, please read these treasure troves directly).
+This is a support page for the [Thinking in Threads](https://tattvum.com/Articles/2002/2002-08/2002-08-06/Ramu-SE-20020803-ThinkingInThreads.html) article. However much I resisted, I couldn't stop myself from sharing the following key quotes, from Andrew S. Tanenbaum (1995), Bruce Eckle (2000), and Borland help on Delphi and Win32. So hear it straight from the masters! (For more details, please read these treasure troves directly).
 
 **The Single Sequence Idiom: Process &amp; Thread**
 

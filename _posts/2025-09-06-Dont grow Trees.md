@@ -34,7 +34,7 @@ I think the days of Inheritance based OOP bashing is gone. Inheritance is no lon
 
 **Don't grow Trees!**
 
-Of late, as the [site](http://tattvum.com/Articles/2002/2002-03/2002-03-31/Ramu-SE-20020325-DontGrowTrees.html#OOPBAD2) rightly points out, our dependence of Tree based imageries have grown to extreme levels. Few notable ones would be,
+Of late, as the [site](https://tattvum.com/Articles/2002/2002-03/2002-03-31/Ramu-SE-20020325-DontGrowTrees.html#OOPBAD2) rightly points out, our dependence of Tree based imageries have grown to extreme levels. Few notable ones would be,
 
 *   The Folder structure is a tree, with the files as the leaf nodes.
 *   All the management structures have shifted to Tree based idioms. Notably, Microsoft Management Console, and all such management tools.
@@ -77,8 +77,8 @@ A new word means a new shade of understanding. Remember, the number of similar m
 
 **References**
 
-1.  [Subject-Oriented Programming](http://iraf.noao.edu/iraf/web/ADASS/adass_proc/adass_95/cogginsj/cogginsj.html)
+1.  [Subject-Oriented Programming](https://iraf.noao.edu/iraf/web/ADASS/adass_proc/adass_95/cogginsj/cogginsj.html)
     This is a very scholarly looking write-up. Lot of insights are provided regarding the popular problems of OO languages, apart from other things.
-2.  [Java Criticism](http://www.geocities.com/tablizer/javacrit.htm)
-3.  [Shapes Example](http://www.geocities.com/tablizer/shapes.htm)
+2.  [Java Criticism](https://www.geocities.com/tablizer/javacrit.htm)
+3.  [Shapes Example](https://www.geocities.com/tablizer/shapes.htm)
     The first link is general link on Java bashing. If you can be open enough, few aspects could be revealing. The second one is a masterly exposition of the ills of Inheritance and trees in general. This article sort of projects Procedures and Classes as duels, which is very novel. There is one other fine article in this site, on superiority of Sets over Tree, I lost that link! I'll find and add it.}

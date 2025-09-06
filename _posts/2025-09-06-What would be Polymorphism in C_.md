@@ -8,7 +8,7 @@ Trying out function pointers and DLL to mimic Java Interfaces
 
 Some books, even till few years back, treat function overloading as a form of Polymorphism. They even gave a name *static polymorphism*, maybe to give an aura of authenticity. Of course, Poly-Morphism means 'many forms', so can we say that function overloading, which has same function name, but different signatures, as polymorphic? If so, maybe we should say, that all human beings are dogs, or maybe pigs. Because humans, dogs and pigs are all mammals. Stretched to its limits, anything can be compared and equated to anything else. Apart from being philosophical, it makes little sense to define things, based on their commonalities. It is best if the definitions use the unique features of a concept. For polymorphism it is the 'late binding'. Function overloading is at its best, a syntactic sugar. It is fairly easy to exist without function overloading with just naming conventions, but it is pretty much impossible for any regular programmer to simulate late-binding without language aid called polymorphism.
 
-[Bruce Eckle](http://www.mindview.net/) is a popular and an inspiring figure for anybody coming into C++ or Java. His unique way of going right into the design matters of the language, while teaching the language itself, is a treat to any programmer who is new to that language. Especially if you know programming already, then his nuggets of reasoning on the language design is a real treat. His initial work on C++ and then on Java, are both phenomenal in their coverage and depth. These books don't pretend to be the specification of the language, but as a guided tour of their unique features and quirks, with their historical and logical underpinnings. The following are extracts from two of his famous books: Thinking In CPP (ticpp) and Thinking in Java (tij), which are downloadable for free as soft copy from his [www.MindView.net](http://www.mindview.net/). This is what he has to say about Polymorphism.
+[Bruce Eckle](https://www.mindview.net/) is a popular and an inspiring figure for anybody coming into C++ or Java. His unique way of going right into the design matters of the language, while teaching the language itself, is a treat to any programmer who is new to that language. Especially if you know programming already, then his nuggets of reasoning on the language design is a real treat. His initial work on C++ and then on Java, are both phenomenal in their coverage and depth. These books don't pretend to be the specification of the language, but as a guided tour of their unique features and quirks, with their historical and logical underpinnings. The following are extracts from two of his famous books: Thinking In CPP (ticpp) and Thinking in Java (tij), which are downloadable for free as soft copy from his [www.MindView.net](https://www.mindview.net/). This is what he has to say about Polymorphism.
 
 ...it's impossible to understand, or even create, an example of polymorphism without using data abstraction and inheritance. Polymorphism is a feature that cannot be viewed in isolation (like const or a switch statement, for example), but instead works only in concert, as part of a "big picture" of class relationships. *People are often confused by other, non-object-oriented features of C++, like overloading and default arguments, which are sometimes presented as object-oriented. Don't be fooled; if it isn't late binding, it isn't polymorphism.*
 
@@ -32,7 +32,7 @@ Well, it can't be put any clearer. Concepts are abstract. They can only be seen 
 
 **A simplest but authentic polymorphic example**
 
-Consider the following scenario of one interface, two implementing classes and one using application class, modeled in UML using [BlueJ](http://www.bluej.org/). For simplicity, there is only one method in the interface, and hence in the two derived classes is:
+Consider the following scenario of one interface, two implementing classes and one using application class, modeled in UML using [BlueJ](https://www.bluej.org/). For simplicity, there is only one method in the interface, and hence in the two derived classes is:
 
     int calculate(int a, int b);
 
@@ -54,7 +54,7 @@ Many Java text books claim to use an "objects first" approach. We very much agre
 
 Because objects can be created interactively, and methods can be called interactively, there is no need for a main function. Students can write classes and call their methods without a need to have a main. And because parameters can be passed to interactive method calls and results are displayed, there is no immediate need for I/O. Students can write and test very sophisticated code without the need for any I/O operations!
 
-[Why BlueJ](http://www.bluej.org/why/why.html)
+[Why BlueJ](https://www.bluej.org/why/why.html)
 
 If you had been a teacher, or attempted to explain OOP to others, you can't help agreeing with these people. Pedagogy is surely an art and science, and these teachers are not just passive users of technology, but active contributors. Rightly done, teaching can be very enriching to all concerned.
 

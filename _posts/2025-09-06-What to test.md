@@ -6,7 +6,7 @@ What is Mock, Assert, JUnit, and how are they related?
 
 **Prelude**
 
-I'm very late to this game of [unit testing](http://c2.com/cgi/wiki?UnitTest). But of late, the guilt has been eating me up. I do see the benefit of it in flashes, but when I try to get organized for a project, this primordial question recurs. Also the various new and interesting concepts like [Mock](http://c2.com/cgi/wiki?MockObject), [Assert](http://java.sun.com/j2se/1.4.2/docs/guide/lang/assert.html) (like the 1.4 Java key word), and the [JUnit](http://www.junit.org/) itself are bit luring and confusing at the same time. Their domain of application seem to be overlapping. Maybe Mock is bit clearer, but yet, how do they all relate to each other?
+I'm very late to this game of [unit testing](https://c2.com/cgi/wiki?UnitTest). But of late, the guilt has been eating me up. I do see the benefit of it in flashes, but when I try to get organized for a project, this primordial question recurs. Also the various new and interesting concepts like [Mock](https://c2.com/cgi/wiki?MockObject), [Assert](https://java.sun.com/j2se/1.4.2/docs/guide/lang/assert.html) (like the 1.4 Java key word), and the [JUnit](https://www.junit.org/) itself are bit luring and confusing at the same time. Their domain of application seem to be overlapping. Maybe Mock is bit clearer, but yet, how do they all relate to each other?
 
 Though this question has been simmering for a quite some time now, it is only yesterday when I was arguing on a practical scenario with Varad, one of my thinking colleagues, that things fell into place. Thanks to him.
 
@@ -35,17 +35,17 @@ public class MoneyTest extends TestCase {
 }
 ```
 
-JUnit, beyond doubt is a remarkable paradigm. A small chunk of code, but yet a way to think about testing itself. What is testing after all? *Testing is just asserting your expectations!* And that is just what JUnit does. It calls/uses the code to be tested, and *asserts* that the return value and the expected value matches as we expect. This much is clear. And hence the apt quote from [JUnit](http://www.junit.org/),
+JUnit, beyond doubt is a remarkable paradigm. A small chunk of code, but yet a way to think about testing itself. What is testing after all? *Testing is just asserting your expectations!* And that is just what JUnit does. It calls/uses the code to be tested, and *asserts* that the return value and the expected value matches as we expect. This much is clear. And hence the apt quote from [JUnit](https://www.junit.org/),
 
 Never in the field of software development was so much owed by so many to so few lines of code.
 
-[Martin Fowler](http://www.martinfowler.com/)
+[Martin Fowler](https://www.martinfowler.com/)
 
 It is also clear, that this assert, which the junit calls through custom methods, is now been standardized in Java 1.4 (merlin), as a statement, with two added benefits, that it can be turned off in runtime for the JVM, and when done so, the cost of the statement is made zero. Interesting, but no questions there. The question is, where should we use these asserts? Of course, JUnit test methods are just a set of asserts, and it makes sense there. Then should we not use it inside our non-test methods? What is to be expected of them there?
 
 Sorry to confuse and prolong this torture of repetition. But this is how I felt about the whole issue. Ok, getting on with my clarity, *the key revelation is, notice that there are asserts inside the unit test methods! So, wherever you test something you need to use assert.* That is the only way, and the key point. Now, let me explore the ramification of this information, and how it can lead to clarity, on the fundamental question: What to test?
 
-Before proceeding further, just for completion let us look at the equivalence of [assert... methods](http://www.junit.org/junit/javadoc/3.8.1/junit/framework/Assert.html) of JUnit, and the java keyword 'assert'. And for the whole reimplementation of JUnit in terms of 1.4 `assert` and 1.5 annotations, see [TestNG](http://beust.com/testng/).
+Before proceeding further, just for completion let us look at the equivalence of [assert... methods](https://www.junit.org/junit/javadoc/3.8.1/junit/framework/Assert.html) of JUnit, and the java keyword 'assert'. And for the whole reimplementation of JUnit in terms of 1.4 `assert` and 1.5 annotations, see [TestNG](https://beust.com/testng/).
 
 ```java
 junit.framework.Assert.assertEquals(java.lang.String message, int expected, int actual)
@@ -69,7 +69,7 @@ Let me define few things for easy reference. *A Component is a chunk of code, wh
 
 **Where to assert?**
 
-Initially I thought, *All Clients, and only clients, asserts*, keeping JUnit as the reference, and assuming that the original [Java guideline for asserts as DBC](http://java.sun.com/j2se/1.4.2/docs/guide/lang/assert.html) (Design By Contract) is taken care of. But yesterday again, when I was testing my claims with my brother, as usual, it became clear that with DBC it is the Provider which uses asserts. So there seems to two distinct usage for assert. One in Client, the test cases, upon the result of the called method, and another in the 'library', when the method is called. Simply put, assert all your expectations.
+Initially I thought, *All Clients, and only clients, asserts*, keeping JUnit as the reference, and assuming that the original [Java guideline for asserts as DBC](https://java.sun.com/j2se/1.4.2/docs/guide/lang/assert.html) (Design By Contract) is taken care of. But yesterday again, when I was testing my claims with my brother, as usual, it became clear that with DBC it is the Provider which uses asserts. So there seems to two distinct usage for assert. One in Client, the test cases, upon the result of the called method, and another in the 'library', when the method is called. Simply put, assert all your expectations.
 
 **To Unit Test, Mock the Clients!**
 
@@ -79,7 +79,7 @@ And hence comes the revelation, that the Unit Tests and the Mock Objects, both a
 
 **Epilogue**
 
-To be fair, don't believe what I say above about testing! I haven't yet tested it. Before now, testing was distant to me, even conceptually, though I seek it. From now, it is close to me, but until it is practiced like OO, these thoughts are no reference, except maybe as a starting point of a debate, or maybe an inspiration. Anyway I intend to test these ideas more, and see how much of these seeming clarity is practically useful, for [TDD (Test Driven Development)](http://www.extremeprogramming.org/rules/testfirst.html), and I'll report here if something interesting crops up.
+To be fair, don't believe what I say above about testing! I haven't yet tested it. Before now, testing was distant to me, even conceptually, though I seek it. From now, it is close to me, but until it is practiced like OO, these thoughts are no reference, except maybe as a starting point of a debate, or maybe an inspiration. Anyway I intend to test these ideas more, and see how much of these seeming clarity is practically useful, for [TDD (Test Driven Development)](https://www.extremeprogramming.org/rules/testfirst.html), and I'll report here if something interesting crops up.
 
 Yet again, this is a fresh inspiration, served hot. It is almost a year now from the last article, and maybe I have to regain my instinct to be more public with my thoughts. Writing articles is a kind of knack, especially if you want to learn from it and not just preach. Blogs makes sense in this context. But all well written blogs are in fact articles, otherwise it is just a valuable form of discussion forum. If adding a personal or egoistical approach makes some thing a blog, definitely these articles are 'Blorticles' (Blog + Articles). Anyway, for now I like the personal space and formalism that these articles provide me, but otherwise I do envy the blog model, and I'm playing the devil's advocate.
 }

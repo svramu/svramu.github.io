@@ -18,7 +18,7 @@ Chaos is a promising concept. Because, even though a system seem to behave very 
 
 **Conway's Life:**
 
-Life, is the most famous cellular automaton, created by John Horton Conway (it was widely known after Martin Gardner discussed it in Scientific American). You can see it in action with a neat application by [Juan M. Aguirregabiria](http://tp.lc.ehu.es/jma.html).
+Life, is the most famous cellular automaton, created by John Horton Conway (it was widely known after Martin Gardner discussed it in Scientific American). You can see it in action with a neat application by [Juan M. Aguirregabiria](https://tp.lc.ehu.es/jma.html).
 
 In this automaton the universe (which may be rectangular or, if opposite sides are identified, toroidal) is made up of a finite number of contiguous square cells which may be alive or dead and have exactly 8 neighboring cells, which in turn may be alive or dead. The evolution, from one generation to the next one, is governed by two simple rules derived from the number of live neighboring cells:
 

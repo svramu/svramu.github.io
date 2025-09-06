@@ -22,7 +22,7 @@ Powerful factors indeed. The first one is really mute in many of the under 50 de
 
 **Reuse Release Equivalence Principle**
 
-I find this (RREP) a very nice concept of [www.ObjectMentor.com](http://tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-SE-20020407-FreedomAndSCM.html#RREP), and is the way to go. It very crisply states that your unit of reuse should be the unit of release too, if you don't want to maintain the reused code too. It also suggests that a *Package* (Java like) could be this optimal granule of release and reuse. The added benefit of this model is that it allows lot of (most?) parallel development, and hence avoids the concurrency argument for a CVS like tool. I personally have a good experience with such a model in a decent 10-15 people project (not much but considerable still). A good package being just a dozen or so key classes, needing hardly 3-6 people, is an ideal candidate for mutually managed independent development. Even very large projects can be ideally broken into a tree of such small sized packages, and thus reduce code reuse to nil.
+I find this (RREP) a very nice concept of [www.ObjectMentor.com](https://tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-SE-20020407-FreedomAndSCM.html#RREP), and is the way to go. It very crisply states that your unit of reuse should be the unit of release too, if you don't want to maintain the reused code too. It also suggests that a *Package* (Java like) could be this optimal granule of release and reuse. The added benefit of this model is that it allows lot of (most?) parallel development, and hence avoids the concurrency argument for a CVS like tool. I personally have a good experience with such a model in a decent 10-15 people project (not much but considerable still). A good package being just a dozen or so key classes, needing hardly 3-6 people, is an ideal candidate for mutually managed independent development. Even very large projects can be ideally broken into a tree of such small sized packages, and thus reduce code reuse to nil.
 
 Also, these packages could be released with their own version numbers, builds, docs and patches. Anybody using a package only has to have its dependent packages of proper version. If new version comes up, they can optionally adopt it or delay. A package for a using developer is a completely sealed component with a life of its own. This is not just for off-the-self buying model, but also within an in-house development.
 
@@ -32,7 +32,7 @@ I intend to test these ideas on the TATTVUM open-source software releases, and t
 
 **References**
 
-[Reuse Release Equivalence Principle](http://www.objectmentor.com/publications/granularity.pdf)
+[Reuse Release Equivalence Principle](https://www.objectmentor.com/publications/granularity.pdf)
 
 This is a very fine article by Robert C. Martin, which discusses RREP among other key granularity based principles.
 }

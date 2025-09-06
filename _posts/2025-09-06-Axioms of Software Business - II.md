@@ -5,7 +5,7 @@ No final decisions yet, just thinking aloud
 
 **Prelude**
 
-This is a sequel to the previous article (Part I, [Axioms of Software Business](http://www.tattvum.com/Articles/2002/2002-03/2002-03-11/Ramu-SE-2002-03-10-AxiomsOfGovernance.html)) on similar lines. Beware, both are just collections of rambling open thoughts. Much more thinking is required, and will be done. The idea of such half-baked articles is to share the early impressions with others who are similarly inclined, and thus evolve a robust model for Software Development. And once this standardization happens, few FAQ can be included and ideally few CheckLists too, if possible.
+This is a sequel to the previous article (Part I, [Axioms of Software Business](https://www.tattvum.com/Articles/2002/2002-03/2002-03-11/Ramu-SE-2002-03-10-AxiomsOfGovernance.html)) on similar lines. Beware, both are just collections of rambling open thoughts. Much more thinking is required, and will be done. The idea of such half-baked articles is to share the early impressions with others who are similarly inclined, and thus evolve a robust model for Software Development. And once this standardization happens, few FAQ can be included and ideally few CheckLists too, if possible.
 
 **Version Control**
 

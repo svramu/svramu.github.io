@@ -4,7 +4,7 @@
 
 *   What is managing a site?
 *   \[S V Ramu, 2002-05-05]
-*   Once you have[started your site](http://www.tattvum.com/FAQs/WebSite/FAQ-HowSite.html), the next thing to do is to keep it alive with fresh and interesting content. For this to be possible, apart from preparing those content (text, images, etc.) you must also think and decide about the way you want this content to be arranged, so that new changes could be implemented with minimum fuss. This FAQ doesn't address the content itself, it deals with *managing* that content, once you have some.
+*   Once you have[started your site](https://www.tattvum.com/FAQs/WebSite/FAQ-HowSite.html), the next thing to do is to keep it alive with fresh and interesting content. For this to be possible, apart from preparing those content (text, images, etc.) you must also think and decide about the way you want this content to be arranged, so that new changes could be implemented with minimum fuss. This FAQ doesn't address the content itself, it deals with *managing* that content, once you have some.
 *   \[S V Ramu, 2002-05-05]
 *   **Do I need to manage?**
 *   \[S V Ramu, 2002-05-05]

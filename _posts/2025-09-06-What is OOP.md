@@ -37,7 +37,7 @@ If you see a Design Pattern, most of those participating classes are not even re
 
 **Is OO the Inheritance?**
 
-This is a very old weak point of OOP. I think it has been time and again concluded that inheritance is inherently dangerous, except as an elegant way to copy code (i.e. reuse). The fact that none of the 23 famous design patterns put excessive stress on deep (more than one or two levels) inheritance, is a good enough proof that, Inheritance is just one another pattern, and not the OO spirit itself (though it was touted as such in C++ days). I fully agree with the authors views that trees are dangerous and limiting (please see my [previous article](http://tattvum.com/Articles/2002/2002-03/2002-03-31/Ramu-SE-20020330-WhatIsOOP.html#TREESBAD) on this angle). Only way in which I would like to differ would be: That author use that as a blemish of OOP, but I would like to treat it as a blemish in general programmatic thinking itself. I don't find any kick is putting all our energies in bashing something, as much as he doesn't like putting all our energies in praising something beyond truth, blindly and 'addictively'.
+This is a very old weak point of OOP. I think it has been time and again concluded that inheritance is inherently dangerous, except as an elegant way to copy code (i.e. reuse). The fact that none of the 23 famous design patterns put excessive stress on deep (more than one or two levels) inheritance, is a good enough proof that, Inheritance is just one another pattern, and not the OO spirit itself (though it was touted as such in C++ days). I fully agree with the authors views that trees are dangerous and limiting (please see my [previous article](https://tattvum.com/Articles/2002/2002-03/2002-03-31/Ramu-SE-20020330-WhatIsOOP.html#TREESBAD) on this angle). Only way in which I would like to differ would be: That author use that as a blemish of OOP, but I would like to treat it as a blemish in general programmatic thinking itself. I don't find any kick is putting all our energies in bashing something, as much as he doesn't like putting all our energies in praising something beyond truth, blindly and 'addictively'.
 
 **Is OO the namespace?**
 
@@ -67,11 +67,11 @@ This is a very powerful point for OO. This is a beautiful point too, needing an 
 
 **References**
 
-*   [The Home Page](http://www.geocities.com/tablizer/oopbad.htm)
-*   [The Home Page part 2](http://www.geocities.com/tablizer/miscoop.htm)
-*   [Java Criticism](http://www.geocities.com/tablizer/javacrit.htm)
-*   [Shapes Example](http://www.geocities.com/tablizer/shapes.htm)
+*   [The Home Page](https://www.geocities.com/tablizer/oopbad.htm)
+*   [The Home Page part 2](https://www.geocities.com/tablizer/miscoop.htm)
+*   [Java Criticism](https://www.geocities.com/tablizer/javacrit.htm)
+*   [Shapes Example](https://www.geocities.com/tablizer/shapes.htm)
 *   The current article is the third review of the above links and that site.
-*   [Don't Grow Trees?!](http://www.tattvum.com/Articles/2002/2002-03/2002-03-31/Ramu-SE-20020325-DontGrowTrees.html)
+*   [Don't Grow Trees?!](https://www.tattvum.com/Articles/2002/2002-03/2002-03-31/Ramu-SE-20020325-DontGrowTrees.html)
 *   This link was the second review, accepting and elaborating the Tree bashing of that site.
 }

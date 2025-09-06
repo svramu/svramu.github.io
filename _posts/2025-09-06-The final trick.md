@@ -30,7 +30,7 @@ Because the effect of calling the above macro from a C code, like,
 printf("XYZ = %i",XYZ*2);
 ```
 
-can be very different. If it were with parenthesis it will be `(3+3)*2=12`, if not, it will be, `3+3*2=9`. This is what [Bruce Eckle](http://www.mindview.net/) has to say about using PP directives for constants.
+can be very different. If it were with parenthesis it will be `(3+3)*2=12`, if not, it will be, `3+3*2=9`. This is what [Bruce Eckle](https://www.mindview.net/) has to say about using PP directives for constants.
 
 ```c
 #define PI 3.14159
@@ -135,7 +135,7 @@ The idea is that it should be possible to change the value of DEBUG from false t
 
 *Java Language Specification ed 2 chap 14 sec 14.20 Unreachable Statements*
 
-when I tested this idea with the following code, with and without the `final` keyword (just that change). The code size of the class file generated was 312 bytes (with final) and 513 bytes (without final) respectively with J2SE 1.4.1_02 compiler. Obviously, when the with-final version was decompiled with [Jode](http://jode.sourceforge.net/), the whole `if` block was absent.
+when I tested this idea with the following code, with and without the `final` keyword (just that change). The code size of the class file generated was 312 bytes (with final) and 513 bytes (without final) respectively with J2SE 1.4.1_02 compiler. Obviously, when the with-final version was decompiled with [Jode](https://jode.sourceforge.net/), the whole `if` block was absent.
 
 ```java
 public class TestFinal {
@@ -148,7 +148,7 @@ public class TestFinal {
 
 **The relation between 'final' and 'assert'**
 
-J2SE 1.4 introduced [Assertion Facility](http://www.tattvum.com/Articles/2002/2002-07/2002-07-28/Ramu-SE-20020727-DBCEiffelJava.html). An `assert` is slightly different in purpose when compared to conditional compiling. Our need is not to reduce the binary size, because we want to be able to enable the logging whenever we want with the application. But we surely want to optimize the speed if we don't use logging or assert. When you use something like the following code, for debugging,
+J2SE 1.4 introduced [Assertion Facility](https://www.tattvum.com/Articles/2002/2002-07/2002-07-28/Ramu-SE-20020727-DBCEiffelJava.html). An `assert` is slightly different in purpose when compared to conditional compiling. Our need is not to reduce the binary size, because we want to be able to enable the logging whenever we want with the application. But we surely want to optimize the speed if we don't use logging or assert. When you use something like the following code, for debugging,
 
 ```java
 MyDebug.trace(getSomeValue());
@@ -181,7 +181,7 @@ Where conditional compiling aims at completely removing development time logging
 
 It seems that we are not alone when we feel irritated, that we have to code and maintain all those logging statements in many of our methods, just to trace the route taken by the runtime logic. Of course a good debugger will give you enough information for this usecase, but still, having a permanent trace of the method call is useful sometimes. And generalizing these types of usecases, people are trying to view the coding effort in layers, instead of just objects. Objects have already proved its worth, but definitely need more help, to be a complete solution for the developer. The current efforts in *Aspect Oriented Programming (AOP)* is trying to address this issue of *separating the concerns*, in programming.
 
-Well, this is a fertile topic in its own right, and I intend to relate to it, more elaborately in future. The popular pioneer in this field is [AspectJ](http://aspectj.org/) (now maintained by eclipse). But recently, I feel the JBoss 4.0 DR1 adaptation of AOP is both clean and innovative. More on these soon.
+Well, this is a fertile topic in its own right, and I intend to relate to it, more elaborately in future. The popular pioneer in this field is [AspectJ](https://aspectj.org/) (now maintained by eclipse). But recently, I feel the JBoss 4.0 DR1 adaptation of AOP is both clean and innovative. More on these soon.
 
 **Epilogue**
 

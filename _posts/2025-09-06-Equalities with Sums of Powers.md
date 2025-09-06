@@ -48,7 +48,7 @@ Now, even a math doctor out there should see this as a gem. The same two sets of
 
 OK, let me cut the hype and go for some history, and oh yeah the derivation and proof. 
 
-The above equation is not a one-off case. It is a cute sample of a general rule, which I stumbled upon when trying (dreaming maybe) to solve an OR ([Operation Research](http://en.wikipedia.org/wiki/Operations_research)) Problem. The problem is: If you are given n books, and asked to arrange it into two stacks, so that the stack height difference is minimal, is there an algorithm that will work always? Looks like [this is a NP-complete](http://en.wikipedia.org/wiki/Partition_problem) problem, that is, any know algorithm will take exponentially longer times, as you increase the number of books. Well, I didn't solve this problem (Of course, if I had, I would not be here writing articles on some old number tricks).
+The above equation is not a one-off case. It is a cute sample of a general rule, which I stumbled upon when trying (dreaming maybe) to solve an OR ([Operation Research](https://en.wikipedia.org/wiki/Operations_research)) Problem. The problem is: If you are given n books, and asked to arrange it into two stacks, so that the stack height difference is minimal, is there an algorithm that will work always? Looks like [this is a NP-complete](https://en.wikipedia.org/wiki/Partition_problem) problem, that is, any know algorithm will take exponentially longer times, as you increase the number of books. Well, I didn't solve this problem (Of course, if I had, I would not be here writing articles on some old number tricks).
 
 But what happened was, while trying to test with easy book thickness, say integers, the above patterns came. Staring point is...
 

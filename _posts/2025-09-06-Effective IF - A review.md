@@ -41,14 +41,14 @@ Of these the last three is not fully relevant to us, but still heightens the thr
 
 **References**
 
-*   [Effective Use of 'IF'](http://www.tattvum.com/Articles/2002/2002-03/2002-03-08/Ganesh-SE-20010208-EffectiveIF.html)
+*   [Effective Use of 'IF'](https://www.tattvum.com/Articles/2002/2002-03/2002-03-08/Ganesh-SE-20010208-EffectiveIF.html)
     The original article, which was included as an appendix in his MS dissertation thesis. The thesis was about patterns and their practical usability in a complete pattern based sample chess application.
-*   [Add type-safe enums to Java](http://developer.java.sun.com/developer/bugParade/bugs/4401321.html)
+*   [Add type-safe enums to Java](https://developer.java.sun.com/developer/bugParade/bugs/4401321.html)
     A Java RFE, slowly growing up in the Java's top 25 Request for Enhancement list. Highly debated, and highly interesting. There are very good arguments, for and against it. In many sense it is a non-sensitively, and debatably casted form of this `if` question.
-*   [Replace Conditional with Polymorphism](http://www.refactoring.com/catalog/replaceConditionalWithPolymorphism.html)
+*   [Replace Conditional with Polymorphism](https://www.refactoring.com/catalog/replaceConditionalWithPolymorphism.html)
     This is one of a ton of refactoring techniques presented in this page. Worth pondering.
-*   [Inherit Dont Branch](http://c2.com/cgi/wiki?InheritDontBranch)
-*   [Enumerated Types In Java](http://c2.com/cgi/wiki?EnumeratedTypesInJava)
-*   [Polymorphism Vs Selection Idiom](http://c2.com/cgi/wiki?PolymorphismVsSelectionIdiom)
+*   [Inherit Dont Branch](https://c2.com/cgi/wiki?InheritDontBranch)
+*   [Enumerated Types In Java](https://c2.com/cgi/wiki?EnumeratedTypesInJava)
+*   [Polymorphism Vs Selection Idiom](https://c2.com/cgi/wiki?PolymorphismVsSelectionIdiom)
     It is amazing how much this web site has accumulated over years. Very informative and high quality stuff. There are links everywhere, so be choosy.
 }

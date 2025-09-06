@@ -15,7 +15,7 @@ After the initial trial hosting in end February, many things have gone as per pl
 
 The beauty is, as the title of this section claims, this is one thing that has gone right! Remember, when we started we expected the Q1 of 2002 as *only* preparation time; and what else could be better preparation than dreaming for hits! It all boils down to what we offer. Right now what we are offering is only our questions and some simple personal ideas. This cannot interest people if they are not in any mood to start their own company. We need to, and will, go beyond this initial pondering to an interestable state where we'll be (say) 1000 user strong, say by this year end. Pipe dream? I too think so, but a goal worthy of striving towards.
 
-Lot of small details is clear now. It is a bit heart warming to compare today, with the [plans made in early February](http://tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-TATTVUM-20020407-LaunchingNow.html#TIMELINE) and before. In a way it feels like being a politician and citing our election manifesto to prove progress. Only thing is that I'm not at all sure that we can complete anything at all that is dreamt; unless we toil mentally. All the same, this impossibility makes it all the more challenging, to see to it that this dream succeeds. When it does, remember this day and it will be so much sweeter!
+Lot of small details is clear now. It is a bit heart warming to compare today, with the [plans made in early February](https://tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-TATTVUM-20020407-LaunchingNow.html#TIMELINE) and before. In a way it feels like being a politician and citing our election manifesto to prove progress. Only thing is that I'm not at all sure that we can complete anything at all that is dreamt; unless we toil mentally. All the same, this impossibility makes it all the more challenging, to see to it that this dream succeeds. When it does, remember this day and it will be so much sweeter!
 
 **The near future and beyond: The Next Week**
 
@@ -23,7 +23,7 @@ I find that planning is a judicious mix of day dreaming and some practical resea
 
 Software tools would be one part of this launch's focus, the other two would be to find a reusable model for releasing and maintaining projects (be it for open source efforts or commercial ones) and a standard open-source usage prescription for different purposes. When anything is released in the coming weeks, the intention is to keep it in a generic framework, both design-wise and configuration-wise. One tool that is complete and running is for playing Carnatic (South Indian) music from the notes, using Java midi packages. I find that it can be adapted for playing any music (especially western). Another tool is for mail storing. This is too basic for now, but the intention again is to make it into a very simple and very configurable mail client.
 
-Even this attempt to release few miniscule software tools, has made us aware of the importance of robust configuration ideas. We are working on things like product versioning, package dependency, and anti-version-control systems. You can read about some of the early thoughts on SCM in the [accompanying article](http://tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-TATTVUM-20020407-LaunchingNow.html#SCM) of this hosting.
+Even this attempt to release few miniscule software tools, has made us aware of the importance of robust configuration ideas. We are working on things like product versioning, package dependency, and anti-version-control systems. You can read about some of the early thoughts on SCM in the [accompanying article](https://tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-TATTVUM-20020407-LaunchingNow.html#SCM) of this hosting.
 
 One more thing that will be added as a section soon would be on standards for concepts and tools usage. This is the one, for which the articles and software are trial grounds. The goal of finding stable and simple process frameworks for designing and developing distributed systems is what is driving this whole company and this site. Only after openly stabilizing on that, can the company, start on revenue generating consultancy and projects.
 
@@ -44,8 +44,8 @@ Believe me when I say that, we believe in the social aspect of the open-source m
 
 **References**
 
-1.  [TATTVUM: Timeline for 2002](http://www.tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-TATTVUM-20020218-TimeLine.html)
+1.  [TATTVUM: Timeline for 2002](https://www.tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-TATTVUM-20020218-TimeLine.html)
     This is a very old internal article on the direction we wanted to try out. This article explores few tentative timelines and areas of focus. This is cited here only to pat ourselves on our back ;)
-2.  [Automate: Not at the cost of Freedom](http://www.tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-SE-20020407-FreedomAndSCM.html)
+2.  [Automate: Not at the cost of Freedom](https://www.tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-SE-20020407-FreedomAndSCM.html)
     Our foray into open-source projects have prompted us to closely reconsider the SCM model we would like to use. Simultaneously the thought of programmer's freedom is analyzed with the tools that they use.
 }

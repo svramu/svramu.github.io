@@ -36,7 +36,7 @@ If you had seen the efforts like NanoXML, or TinyXML, which want to simplify the
 
 **URL - The old fame and new meaning**
 
-In the early days, or in a simple case even now, when a website is just a collection of HTML files, standardizing a convention to call these files directly through the URL was important, as the whole process can be automated with a complaint web server which will appropriately pick the files from the local directories and serve it across the net. For example if you say `http://www.mydomain.com/myfolder/myfile.html` It could very well mean that the file `myfile.html` is inside the `myfolder` which is in the site `http://www.mydomain.com`. This is the URL that a client knows, and that is how the website sees it too. But with the dynamic page generation capabilities of CGI, ASP, JSP etc. the URL is now only symbolic.
+In the early days, or in a simple case even now, when a website is just a collection of HTML files, standardizing a convention to call these files directly through the URL was important, as the whole process can be automated with a complaint web server which will appropriately pick the files from the local directories and serve it across the net. For example if you say `https://www.mydomain.com/myfolder/myfile.html` It could very well mean that the file `myfile.html` is inside the `myfolder` which is in the site `https://www.mydomain.com`. This is the URL that a client knows, and that is how the website sees it too. But with the dynamic page generation capabilities of CGI, ASP, JSP etc. the URL is now only symbolic.
 
 In many modern websites, even a call to `myfile.pdf` can be dynamically generated from some XML snippet or even from a database. Of course even now this folder like separation lends itself to context separation, and dot extensions of files to the format of presentation. But the original intention of mimicking the files and folders is fast going out-of-fashion. This point lends us to the fact, that while developing the dynamic content, the real URL to be sent out in responses should be carefully abstracted. Because, URL is like a phone number given to a friend. Whether we are there in that number or not, the friend does expect us to be there. So, even if we move our number, we should arrange to redirect the old number calls to the new one, instead of trying to update every one of our friend.
 
@@ -48,7 +48,7 @@ While HTTP has abstracted the client and server completely to each other, what r
 
 Appreciate the following similarities between a URL,
 
-`http://www.mydomain.com/package/method?param=value`
+`https://www.mydomain.com/package/method?param=value`
 
 and a function call,
 

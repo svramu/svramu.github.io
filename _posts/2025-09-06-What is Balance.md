@@ -126,13 +126,13 @@ OK, let me try now slowly, do or die! In fact safely. I swam the width at 5 ft t
 
 *15 mins after getting into the pool...*
 
-I was there in 12 feet for once and slowly came to other side! Great it works. And all my practice in 5ft deep paid off in 12ft, no surprises, no new buoyancy factor to tackle. Just fear. Then and then I was floating in th 12 feet deep for 10 mins or more (in fact much less than an hour, anyway...). There I was floating, not on water but on [cloud nine](http://www.worldwidewords.org/qa/qa-clo1.htm)! Already aiming for 1 hour in a sea...
+I was there in 12 feet for once and slowly came to other side! Great it works. And all my practice in 5ft deep paid off in 12ft, no surprises, no new buoyancy factor to tackle. Just fear. Then and then I was floating in th 12 feet deep for 10 mins or more (in fact much less than an hour, anyway...). There I was floating, not on water but on [cloud nine](https://www.worldwidewords.org/qa/qa-clo1.htm)! Already aiming for 1 hour in a sea...
 
 **Mathematics, Swimming and Rediscoveries**
 
-For swimming, after the 12ft float it was bit of an anti-climax when I found that this is all already known, while goggling (In fact I was happy to know that this is not new, for if new, I should either be a genius, or it should be flawed). In fact it was a [popular way to learn sea swimming](http://en.wikibooks.org/wiki/Swimming_for_Fitness_%26_Competition/How_to_swim)! Thankfully I need not explain the details here, as it is there in open and nothing new.
+For swimming, after the 12ft float it was bit of an anti-climax when I found that this is all already known, while goggling (In fact I was happy to know that this is not new, for if new, I should either be a genius, or it should be flawed). In fact it was a [popular way to learn sea swimming](https://en.wikibooks.org/wiki/Swimming_for_Fitness_%26_Competition/How_to_swim)! Thankfully I need not explain the details here, as it is there in open and nothing new.
 
-Rediscovery is not new to me, and I have seen it while working with [number partitions recurrence relation](http://theory.cs.uvic.ca/amof/e_partI.htm) (the [asymptotic version](http://mathworld.wolfram.com/PartitionFunctionP.html) I never understood). Even the [Why Calculus](Why%20Calculus.html) article was a simulated rediscovery, and hence the joy of narrating it. Just to say that the rediscoveries is not a thing to be disappointed about, but to be happy that we are thinking in the line of an old master. And that is some assurance. But maybe I will never be an inventor then if I always find rediscovery as un-disappointing? Maybe that is why people spend time studying for years, before doing Phd.? Anyway, even if you invent, you have to learn too right? You cannot invent everything, and maybe every learning is an invention/discovery too!
+Rediscovery is not new to me, and I have seen it while working with [number partitions recurrence relation](https://theory.cs.uvic.ca/amof/e_partI.htm) (the [asymptotic version](https://mathworld.wolfram.com/PartitionFunctionP.html) I never understood). Even the [Why Calculus](Why%20Calculus.html) article was a simulated rediscovery, and hence the joy of narrating it. Just to say that the rediscoveries is not a thing to be disappointed about, but to be happy that we are thinking in the line of an old master. And that is some assurance. But maybe I will never be an inventor then if I always find rediscovery as un-disappointing? Maybe that is why people spend time studying for years, before doing Phd.? Anyway, even if you invent, you have to learn too right? You cannot invent everything, and maybe every learning is an invention/discovery too!
 
 **Similarities between Floating and Cycling: Balancing**
 
@@ -158,7 +158,7 @@ Generalizing this, can we say all knowledge is a kind of balance? Then can we sa
 
 Surely, there are some learnings which are not a balance. So is memorizing is in some way 'shallow' when compared to learning to balance? That is, a balance is a kind of 'deeper' memorizing? BTW, what other kind of learnings can be got like balancing, in a snap?
 
-*   I would say, 3-ball juggling and above (I'm already planning to learn this next! Researched few things about [Siteswap](http://en.wikipedia.org/wiki/Siteswap) etc. Mathematical, Fun!)
+*   I would say, 3-ball juggling and above (I'm already planning to learn this next! Researched few things about [Siteswap](https://en.wikipedia.org/wiki/Siteswap) etc. Mathematical, Fun!)
 *   Of course tight rope walking
 
 But these are obviously 'balancing' and physical. Can non-physical things be a balance?

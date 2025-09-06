@@ -109,13 +109,13 @@ We are still feeling our way around. To aid this search, as a community, we will
 
 True to the spirit of internet, this time I'll be just giving few keywords for you to search in Google or other search engines (the secret point is, I didn't have time to verify the URLs I have). Maybe I can directly give the href as Google's search url, but settled for this. I also realize that there are some spelling mistakes and misrepresentation here, but I believe google will take care of that.
 
-*   [www.GOOGLE.com](http://www.google.com/)
+*   [www.GOOGLE.com](https://www.google.com/)
 *   The leading free search engine available.
-*   [www.GNU.org](http://www.gnu.org/)
+*   [www.GNU.org](https://www.gnu.org/)
 *   The mother of all Open Source projects. This is the pioneer, Richard Stallman's home turf, so to say.
-*   [Cathedral and Bazaar](http://www.google.com/)
+*   [Cathedral and Bazaar](https://www.google.com/)
 *   The now famous article, on open source model and its benefits. The author is Eric S Raymond. He also has a nice article on 'How to be a hacker'.
-*   [Ganesh C Prasad Kaivo Open Source Linux](http://www.google.com/)
+*   [Ganesh C Prasad Kaivo Open Source Linux](https://www.google.com/)
 *   I once read his (Ganesh C Prasad) sweeping article in some site called Kaivo (or kavio?), which specialize on Linux and other OSS.
-*   [Project Guttenberg hart free online books](http://www.google.com/)
+*   [Project Guttenberg hart free online books](https://www.google.com/)
 *   This is a massive free project to convert all copyright expired books as text files and as xml files (HTML writer's guild). You can get the whole works of Cannon Doyle, Jane Austen etc.}

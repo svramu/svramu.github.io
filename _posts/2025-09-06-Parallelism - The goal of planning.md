@@ -20,7 +20,7 @@ In simpler terms, the question should be *what is the maximum number of develope
 
 **Scope - The feasible set of Testable Requirements**
 
-The scope of the project is the other side of parallelism. Requirements are to the definition of the project, what parallelism is to development. Some time back while I was rummaging Internet for some effective but naturally simplistic approach to handle requirements and testing (QA), I stumbled upon a site, which enthusiastically talked about [Testable Requirements](http://www.testablerequirements.com/). This is at once an appealing and reassuring concept. I intend to explore further, the relevance of TR with respect to other SE domains like parallelism etc.
+The scope of the project is the other side of parallelism. Requirements are to the definition of the project, what parallelism is to development. Some time back while I was rummaging Internet for some effective but naturally simplistic approach to handle requirements and testing (QA), I stumbled upon a site, which enthusiastically talked about [Testable Requirements](https://www.testablerequirements.com/). This is at once an appealing and reassuring concept. I intend to explore further, the relevance of TR with respect to other SE domains like parallelism etc.
 
 **How many people can (simultaneously) work in this project?**
 
@@ -53,7 +53,7 @@ In many sense I can liken Film Making with Software Making. In film making too t
 
 **Parallelism and Reuse**
 
-You can never overstress the importance of reuse without over-dependence. I would like to once again link to the [fine article by Robert.C.Martin](http://www.objectmentor.com/publications/granularity.pdf). The parallelism of development necessitates *release based reuse*. When a module is developed parallely along with other modules, it will have its own release cycle, versioning and dependency; which has to be documented and conveyed to its users.
+You can never overstress the importance of reuse without over-dependence. I would like to once again link to the [fine article by Robert.C.Martin](https://www.objectmentor.com/publications/granularity.pdf). The parallelism of development necessitates *release based reuse*. When a module is developed parallely along with other modules, it will have its own release cycle, versioning and dependency; which has to be documented and conveyed to its users.
 
 When modules are developed parallely, *as if it is a product on its own*, then, the extensibility and re-usability of the project is highest. The clarity of the developers about their role and criticality is much better this way. Achieving this parallelism is the onus of the project leader, and since this is neither trivial nor easy, the expectation on the leader is very high. I feel the usual point that no member of the project has to be indispensable, only belittles the enormous benefit offered by a good leader. The best this need for dispensability can only mean, that a superiors must really be worthy of their position. Because, if a leader is really the best dog of the bunch, then he will necessarily be less dependent on his subordinates. This holds good for a leader at any level, and to a any subordinate too.
 
@@ -63,8 +63,8 @@ I realize that I've talked as much about everything as I should be about paralle
 
 **References**
 
-1.  [Testable Requirements](http://www.testablerequirements.com/)
+1.  [Testable Requirements](https://www.testablerequirements.com/)
     I'm constantly stimulated by this concept of Testable Requirements as a way for project scoping. We need to think about this much more before we incorporate it into TATTVUM model for simple and effective SE practices.
-2.  [Reuse Release Equivalence Principle (R.C.Martin)](http://www.objectmentor.com/publications/granularity.pdf)
+2.  [Reuse Release Equivalence Principle (R.C.Martin)](https://www.objectmentor.com/publications/granularity.pdf)
     This is a very fine article by Robert C. Martin, which discusses RREP among other key granularity based principles.
 }

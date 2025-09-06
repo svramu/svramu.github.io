@@ -100,7 +100,7 @@ Stay tuned, more to come!
 
 **A sample composition**
 
-You can [download this sample music](http://tattvum.com/Articles/2002/2002-06/2002-06-30/Ramu-TJRagam-0.1-Sample.zip) as .sng file and as record .mp3 file. You can see below the same song rendered in color. (I'll publish this JEdit mode file, with the next release).
+You can [download this sample music](https://tattvum.com/Articles/2002/2002-06/2002-06-30/Ramu-TJRagam-0.1-Sample.zip) as .sng file and as record .mp3 file. You can see below the same song rendered in color. (I'll publish this JEdit mode file, with the next release).
 
 /This is a comment\
 

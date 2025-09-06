@@ -15,7 +15,7 @@ Then in C++ there was a shower of jargons: Class, Object, Virtual, Abstract, Ove
 
 **Thanks to Delphi**
 
-My first professional programming language was [Delphi](http://www.borland.com/delphi) (a Object Pascal based Integrated Development Environment from [Borland](http://www.borland.com/)). Delphi is a Object Oriented Programming language. But I followed my own C++ trick here and used it again as a procedural language. After a year and a half I started developing custom components for a project, which become an eye opener for me towards OOP. I understood all the jargons and my nightmare were driven away. It was a very short learning curve; hardly a month (credits goes to my friends and Delphi's source code). Even though I understood OOP very well, I used it for only component development and not in my project domain.
+My first professional programming language was [Delphi](https://www.borland.com/delphi) (a Object Pascal based Integrated Development Environment from [Borland](https://www.borland.com/)). Delphi is a Object Oriented Programming language. But I followed my own C++ trick here and used it again as a procedural language. After a year and a half I started developing custom components for a project, which become an eye opener for me towards OOP. I understood all the jargons and my nightmare were driven away. It was a very short learning curve; hardly a month (credits goes to my friends and Delphi's source code). Even though I understood OOP very well, I used it for only component development and not in my project domain.
 
 **My First OOP**
 
