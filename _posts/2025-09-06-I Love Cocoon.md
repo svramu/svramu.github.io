@@ -6,7 +6,7 @@ A survey of extensible server strategies
 
 **A 'home grown' strategy for designing a website**
 
-![Cocoon image 1](I%20Love%20Cocoon/71c3ea2bbf0c79fc191506964cf88431.jpg)
+![Cocoon image 1](/assets/images/I%20Love%20Cocoon/71c3ea2bbf0c79fc191506964cf88431.jpg)
 
 Around two years back, for the first time, I had an opportunity to design and implement a dynamic website, with a team. Though it took few weeks to digest the HTTP's stateless model and the associated browser quirks, soon we could apply all the standard application tricks to HTML page designing. For an OOP addict, the ASP, or the plain JSP model of mixing script and html was as harsh as metal scratching metal. It was immediately certain that if at all we use JSP, custom tag is the way to go. By which, we separate the tag structures from the java coding, through the elegant taglib model. But still, this total dependence of the application to the web infrastructure was still reeking with bad smell. After all, a web interface is only one face of an application. Also, we were not ready for full fledged application server based design, due to its seeming heaviness. So JSP is out and Servlet is in. At least, JSP as a way of mixing HTML and script, is definitely out. The servlet has its own drawbacks. The idea of generating HTML tags with Java code was like squashing a bug with a sledge hammer. We needed the flexibility of JSP with the Independence of Servlet.
 
@@ -14,7 +14,7 @@ The newly learnt jargons of XML-XSL came to the rescue. With XSL you can generat
 
 Soon we also decided that we just needed only one servlet, whose job was only to route the requests and the parameters to appropriate Java classes (we even made this dynamic, by loading the appropriate Java classes only in runtime, as configured in a property file). Initially we were guilty of such drastic simplification! Of reducing the whole web architecture dependence to just that one servlet. But it made sense, as we realized that servlet is just for that: to connect our server-side code to the client's browser.
 
-![Cocoon image 2](I%20Love%20Cocoon/f2b29feb2f664423260ca9decd7d6c18.jpg)
+![Cocoon image 2](/assets/images/I%20Love%20Cocoon/f2b29feb2f664423260ca9decd7d6c18.jpg)
 
 **The curiosity, the Struts and the Cocoon**
 
@@ -34,7 +34,7 @@ If you imagine all the service nodes as points, and their interconnections with 
 
 (Isn't OOP dead?)
 
-![Cocoon image 3](I%20Love%20Cocoon/f602f95207d228a24855f1d728ed9c8c.jpg)
+![Cocoon image 3](/assets/images/I%20Love%20Cocoon/f602f95207d228a24855f1d728ed9c8c.jpg)
 
 In this light, seeing Cocoon made me envious of those admirable minds, who dared to go beyond the fear of too many runtime transformation becoming a bottleneck, to a dream of completely separating the concerns, to the point of reducing Java like coding to the absolute minimum. You must realize, that today, with the tremendous processor speed and the spacious RAMs, and above all an optimized monster servers, the speed is really not a concern. You can always throw in more hardware. The issue now is having a portable content, which is ultimately extendable and scalable. Cocoon realizes this fully, hence exploits and combines the simplicity of XML with the versatility of XSL. Its design advocates multi-level XSL transformation before sending out the response. All the same, *Cocoon 2* claims to optimize fiercely to production quality, by using SAX parsers instead of the memory and CPU gobbling DOM.
 
@@ -42,7 +42,7 @@ In this light, seeing Cocoon made me envious of those admirable minds, who dared
 
 There are very many jargons to be learnt in Cocoon. As Cocoon itself admits, the concepts of SiteMap and XSP (eXtensible Server Pages), have a steep learning curve. But the heart of the whole framework is nothing short of a revolution (as its early founder, Stefano Mazzocchi -mad-zoki-, rightfully claims). After some time with its docs, I'm bit uncomfortable with its over simplified model of *Actions*, which ridiculously simplifies all the programming needs with the elegant [Apache Jakarta Avalon Framework](http://jakarta.apache.org/avalon/framework). If this is true, what it means is, that the whole site management can be done with XML-XSL alone, with java only for producing those starting XML 'seeds' (so to say).
 
-![Cocoon image 4](I%20Love%20Cocoon/d2c95264708c09c342a9d3fc5888b6e8.jpg)
+![Cocoon image 4](/assets/images/I%20Love%20Cocoon/d2c95264708c09c342a9d3fc5888b6e8.jpg)
 
 Basically the model consists of the following concepts...
 

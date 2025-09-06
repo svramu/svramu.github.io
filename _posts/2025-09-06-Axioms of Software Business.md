@@ -5,7 +5,7 @@ An attempt towards decisive goals
 
 **Meta Prelude**
 
-![Axioms of Software Business/00a497ca4bbf069af5923240a0600466.jpg](Axioms%20of%20Software%20Business/00a497ca4bbf069af5923240a0600466.jpg)
+![Axioms of Software Business/00a497ca4bbf069af5923240a0600466.jpg](/assets/images/Axioms%20of%20Software%20Business/00a497ca4bbf069af5923240a0600466.jpg)
 
 I thought of keeping much grander title (Axioms of Governance), but settled for this provocative one. Addressing a limited (?!) field, namely Software Business, alerts people to stop and watch, as it is the current holy grail, and an accepted failure for many of us, especially me. If, trying to figure out the axioms for any field is tough, for SE Business it is all the more so, and for Governance in general, it is well nigh impossible. Our mind, allows hope, and hence interest, to a certain level of impossibility; beyond that limit we cease to be aroused by promises. All the same, I would like to urge you to give a fresh thought to a seemingly impossible endeavor of axiomatizing Software Business Management. And hence the provocative and promising name. But it can be promising, only if it helps you (and me) in solving our daily management problems, now and in future. For now, I guarantee, with my experience, it is definitely non-trivial in its decisiveness. **What are axioms?**
 

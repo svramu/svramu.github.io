@@ -5,7 +5,7 @@ Focus on Development methodologies and Linux Analysis
 
 **Prelude**
 
-![TATTVUM Logo](TATTVUM%20-%202002%20Q3%20Reports%20and%20Plans/4aa804e46bf75f4646b1eaea522573ad.jpg)
+![TATTVUM Logo](/assets/images/TATTVUM%20-%202002%20Q3%20Reports%20and%20Plans/4aa804e46bf75f4646b1eaea522573ad.jpg)
 
 We are now in the third quarter after launching, alive and kicking. Achievements? Well, we have survived this long with the enthusiasm intact! What more can we ask for. 20 weeks and as many launchings after, many things have been learnt, many compromises were made, and few new directions adopted. Slowly we are realizing our interests and strengths in the traditional software business instead of any type of revenue-based reliance on internet. Internet is and will be the main stay for being in touch. Though the hit rate would definitely be an indicator of our growth as a group, it cannot be our focus. We believe in strengthening the root skills of ours for increasing the participation, rather than canvassing the busy public with propaganda. By the way, on the plus side, we can be sure that our Q2 goals of stabilizing our site with articles and other archives, is achieved. More than this, few vital pieces of software development models are clearer now, and it shows up in our articles. With value and value only can we be known. Strength and progress has its own aroma, and will draw the connoisseurs together. So this quarter, as the previous quarters, we will focus on strengthening our core strengths. Internet is our visiting card, our meeting point and of course a useful display board. No more, no less.
 

@@ -36,9 +36,9 @@ This is only the general overview. If you can write a novice friendly original a
 
 **Java landscape**
 
-![Java Landscape](J2ME%20and%20Java%20Landscape/bbd5d69c39d0afaf7a99683bac031f75.jpg)
+![Java Landscape](/assets/images/J2ME%20and%20Java%20Landscape/bbd5d69c39d0afaf7a99683bac031f75.jpg)
 
-![Java Landscape](J2ME%20and%20Java%20Landscape/ea8da3571e41048801162dfa318be693.jpg)
+![Java Landscape](/assets/images/J2ME%20and%20Java%20Landscape/ea8da3571e41048801162dfa318be693.jpg)
 
 The picture in the left summarizes it all. This is my adaptation of the the original picture that is available in the [J2ME Data Sheet](http://java.sun.com/j2me/j2me-ds.pdf). Basically there are three reasons to draw afresh: one of course I didn't want to consider any copyright issues, secondly that is too rich and curvy for this site, and thirdly, and importantly, it depicts the J2EE as a separate stack. From what I see, every edition of the J2EE release depends fully on the latest (well, almost) available J2SE release. For example, the upcoming [J2EE 1.4 beta 2 requires J2SE 1.4.1_02](http://java.sun.com/j2ee/1.4/download-beta2.html). So I understand, the idea of showing J2EE as a separate stack is only to reiterate maybe Sun's intention of growing J2EE as independent of J2SE. What would that mean? That means some part (package, class or restrictions) of J2SE may not be applicable to J2EE? I seriously doubt this, if history is any indicator J2EE will always be a superset of J2SE. Hence this diagram, where J2EE is stacked over J2SE. It is also compact, as a side effect. I'm always intrigued by the thin line that separates a Language and its API. This is not with Java alone, even in C and pascal, there are basic methods, or libraries, which are integral to the language (like `malloc()`). In java, classes like `Object` are such integral API pieces that the language syntax (`class`) depends upon. `catch` depends upon `Throwable`. In the upcoming J2SE 1.5 the enhanced `for` (or foreach), depends on a new interface called `Iterable`. So much so, Java has made the whole of `java.lang.*` package as basic to the language and hence will be automatically imported ([JLS 2ed 7.5.3 Automatic Imports](http://java.sun.com/docs/books/jls/second_edition/html/packages.doc.html#26741)) in any java file you write (which is 4 interfaces, 32 classes, 24 Exceptions, and 22 Errors, as of 1.4.2). These classes "are fundamental to the design of the Java programming language", and relate to the basic OOP underpinnings, primitive-wrapper datatypes, Math-String handling, System operations like threads, and importantly Exception handling mechanisms.
 
@@ -68,7 +68,7 @@ As you can see in the figure, there are three ingredient to a java environment.
 
 **J2ME**
 
-![Java Landscape](J2ME%20and%20Java%20Landscape/6ece8bbdf1dacc1e3995fd6861a148ea.jpg)
+![Java Landscape](/assets/images/J2ME%20and%20Java%20Landscape/6ece8bbdf1dacc1e3995fd6861a148ea.jpg)
 
 A highly optimized Java runtime environment, J2ME (Java 2 Platform, Micro Edition) technology specifically addresses the vast consumer space, which covers the range of extremely tiny commodities such as smart cards or a pager all the way up to the set-top box, an appliance almost as powerful as a computer. [Sun J2ME](http://java.sun.com/j2me/)
 
@@ -80,7 +80,7 @@ Although it would be nice to have the entire J2SE Application Programming Interf
 
 **Virtual Machines: JVM, KVM, CVM**
 
-![Java Landscape](J2ME%20and%20Java%20Landscape/7fe8a1dba965459dd8116695e9c80bf7.jpg)
+![Java Landscape](/assets/images/J2ME%20and%20Java%20Landscape/7fe8a1dba965459dd8116695e9c80bf7.jpg)
 
 The J2ME is divided into the *VM* of its own (JVM, KVM, CVM), then the core API called the *Configuration*, the linguistic abilities of Java, which are very related to the VM implementation itself, and then the *Profile*, which depend upon the Configuration, and add more vertical (device dependent) capabilities to the platform. Beyond this you can have many *Optional Packages* (like an API for Bluetooth etc.), which can be added to suite your need. Of course there are dependencies between the profiles and the Configuration. For example the MID profile need CLD Configuration (more latter). And FP can only run with CDC, and not with CLDC. The Virtual machine, is the implementation backbone of the Configuration. It does many things that a Configuration needs, and the rest is handled by the classes. So much so, that people say that a VM is just an implementation of the Configuration for which it was written to support, and hence in the the modified J2ME stack image, we've clubbed configuration with the VM. The full blown JVM is what we know, as used in our J2SE 1.4.2 SDK, and which conforms to JLS 2.0. But Sun has two more VMs. One is the KVM, The Kilobyte Virtual Machine, which occupies barely 40-80kb of memory, 20-40kb of heap, and can run with 25mhz 16bit CPU. That is small. Then a CVM: Card VM, is smaller than that!
 
@@ -98,7 +98,7 @@ Currently J2ME has two configurations defined through JCP. *CDC* : Connected Dev
 
 **CDC: Connected Device Configuration**
 
-![Java Landscape](J2ME%20and%20Java%20Landscape/7c564895f91a8fa7606eec2a0c35b84f.jpg)
+![Java Landscape](/assets/images/J2ME%20and%20Java%20Landscape/7c564895f91a8fa7606eec2a0c35b84f.jpg)
 
 **CDC supports the full Java 2 virtual machine specification, including floating point support and core library features such as full class loading, thread support and security.** At the class library level, CDC uses J2SE class libraries whose implementations have been optimized for small memory environments. In the interest of resource conservation, some J2SE-based class libraries have modified interfaces, while others have been removed entirely. The result is a flexible Java application environment that fits comfortably within a memory budget of 2 MB of RAM and 2 MB of ROM. [CDC Whitepaper](http://java.sun.com/products/cdc/wp/cdc-whitepaper.pdf)
 
@@ -145,13 +145,13 @@ You should have heard many `let`s in Java: Applet, Servlet, Midlet, Doclet, XLet
 
 **At last! CLDC: Connected Limited Device Configuration**
 
-![Java Landscape](J2ME%20and%20Java%20Landscape/c571006671b02d58a452dbde72b26172.jpg)
+![Java Landscape](/assets/images/J2ME%20and%20Java%20Landscape/c571006671b02d58a452dbde72b26172.jpg)
 
 CLDC is the foundation for the Java runtime environment targeted at small, resource-constrained devices, such as mobile phones, pagers, and mainstream personal digital assistants. CLDC, combined with the Mobile Information Device Profile (MIDP), is the Java runtime environment for today's resource-constrained mobile information devices (MIDs) such as phones and entry level PDAs. [Sun CLDC](http://java.sun.com/products/cldc/)
 
 Well, this is the area I used for Nokia 6610 programming that I was talking at the start of this article. And this is the area, that prompted me to search all these J2ME stuff, to help place it in perspective to a J2SE developer. Most of the J2ME programming you'll see will relate to CLDC. As CDC devices are not many, and is not user-programmable right now, IMHO. Somehow, creating a game or application for our cell phone holds more potential use and charm to us, than doing that for SetTop boxes. But in fact the line is thin!
 
-![Java Landscape](J2ME%20and%20Java%20Landscape/1b58be105b4fdfb963ea837143489aa7.jpg)
+![Java Landscape](/assets/images/J2ME%20and%20Java%20Landscape/1b58be105b4fdfb963ea837143489aa7.jpg)
 
 There are PDAs which have CDC capabilities, and some high end cell phones too, which are just a PDA in disguise. In fact PDA is the dividing line between CDC and CLDC, based on their memory and speed. CLDC is highly constrained from a J2SE perspective, but is well endowed if you consider that we are dealing with memories like 128kb. Starting with CLDC and below (JavaCard), the whole of Java language as we see in J2SE cannot be implemented, and hence the JVM spec too cannot be adhered fully. So a constrained Kilobyte VM (KVM) is used exclusively for CLDC implementation.
 
@@ -229,7 +229,7 @@ For more details into the exact differences between various, Configurations and 
 
 **JavaCard**
 
-![Java Landscape](J2ME%20and%20Java%20Landscape/ff94dc02d9f18860199d709f0629b9a7.jpg)
+![Java Landscape](/assets/images/J2ME%20and%20Java%20Landscape/ff94dc02d9f18860199d709f0629b9a7.jpg)
 
 If, like me, you are thinking, programming to a pager or a cell phone is ridiculous enough, then programming to a chip embedded, visiting card size, smart card was a complete joke. If My 6610 can only take an application jar of size 64k max, and only three like that totally, what can we meaning fully do with a smart card, with memory as low as 16k or lower? This is what [JavaCard](http://java.sun.com/products/javacard/) tries to accomplish. [An article on Java Card 2.0](http://www.javaworld.com/javaworld/jw-03-1998/jw-03-javadev_p.html) specification says, 'the minimum system requirement is 16 kilobytes of read-only memory (ROM), 8 kilobytes of EEPROM, and 256 bytes of random access memory (RAM)'. We are talking that low! Well this is a very nascent area for me, and I think for the industry too, relatively. For a quick preview try this [java world article](http://www.javaworld.com/javaworld/jw-07-1999/jw-07-javacard_p.html). The APDU (application protocol data units) form the basic protocol of communication between the card and the reader, standardized by ISO 7816. Basically the idea is you write your java card application, and upload it into it, and a card reader application, together with that which is inside the card, by communicating with APDU, will do something useful.
 

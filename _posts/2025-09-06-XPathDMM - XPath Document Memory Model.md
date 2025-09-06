@@ -4,7 +4,7 @@ A simple alternative to W3C's object based DOM
 
 *S V Ramu (2002-06-02)*
 
-![XPathDMM](XPathDMM%20-%20XPath%20Document%20Memory%20Model/c5c5a0f65c3ca519cbae9f7f8e348dfc.jpg)
+![XPathDMM](/assets/images/XPathDMM%20-%20XPath%20Document%20Memory%20Model/c5c5a0f65c3ca519cbae9f7f8e348dfc.jpg)
 
 **DOM and XPath**
 

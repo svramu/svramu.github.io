@@ -5,7 +5,7 @@ A critical analysis of an anti-OO site
 
 **The Site**
 
-![Site Image](OOP%20Oversold/5add67def13256b0182e6984a9e993a2.jpg)
+![Site Image](/assets/images/OOP%20Oversold/5add67def13256b0182e6984a9e993a2.jpg)
 
 When I first came across this [site](http://tattvum.com/Articles/2002/2002-03/2002-03-24/Ramu-SE-20020324-OopOversold.html#OOPBAD) while searching the web for examples of OOP pitfalls, I was so sure that this was some sort of attention grabbing attempt. Well, after reading so many other pages from that site (beware it is hosted in geocities, and you can be locked out, if the page exceeds its quota of hits), I'm not so disturbed or antagonistic towards its intention, as previously I was. Its authors (Findy Services and B. Jacobs? as the copyright notice in the page footer claims), are pretty serious about its contents. It is no *Joke Alone* for sure, there is a useful message in it too. It is a very provocative writing. The authors (say, He) 'challenges' the reader to dare to give an useful example for OO's claimed superiority. He himself gives so many angles to the hyped status of OO, and Java (the symbolic straw man, so to say).
 

@@ -10,9 +10,9 @@ A PoPP archive explanatory article, for [TJKolam](PoPP%20-%20TJ%20Kolam.html)
 
 Well, I'm not an expert in this hoary art of South India. In fact, it is this envy of mine towards these unassuming household artists that prompted me to automate this sophisticated and artistic curve drawings. *Kolam*, is a regular Tamil word (maybe other South Indian languages too might be sharing this word with minor variations). I didn't even try to translate this name into English, for this project, as Kolam is pretty unique to this part of the world. Of course, I've seen similar art forms with knots and curves in some Inca related pages in web. I guess the Arabs too have similar graphic art forms (which is evident in some great mosques that are in India). All the same, I guess, no where else in the world, is the Kolam like art form as alive and a day-to-day affair, as it is in India. In the North of India, another colorful variation of this practice is prevalent, in the name of *Rangoli*. But I feel Rangoli, and some other artistic variations of Tamil Nadu itself, are not as mathematically interesting as this particular version of Kolam (nonetheless they are all a great feast to discerning eyes).
 
-![](TJ%20Kolam%20-%20An%20Overview/42716c9f65f978780e3ced69657c2d64.jpg)
+![](/assets/images/TJ%20Kolam%20-%20An%20Overview/42716c9f65f978780e3ced69657c2d64.jpg)
 
-![](TJ%20Kolam%20-%20An%20Overview/5a5a90598768012a65d71427cadd612a.jpg)
+![](/assets/images/TJ%20Kolam%20-%20An%20Overview/5a5a90598768012a65d71427cadd612a.jpg)
 
 The above samples are the flavors I'm interested in. These drawings were created with the TJ Kolam program, available in the PoPP archive. The first one is a straight forward print screen, but the second is a merge of two three Print Screens. The goal of this application is to allow printing and saving of these kolams, from an easy to use interface, where you can create these beauties. Maybe we can make a kolam screen saver too! For now (PoPP's TJKolam 0.1 version), the algorithm is in place, but we still need to spruce up the interface, before it could be useful to my granny.
 
@@ -24,7 +24,7 @@ By the way, just to stun the uninitiated, the first of the above is a single con
 
 **Kolam as connected bubbles**
 
-![](TJ%20Kolam%20-%20An%20Overview/c1d98ec96575f82a9abfde7e78281e45.jpg)
+![](/assets/images/TJ%20Kolam%20-%20An%20Overview/c1d98ec96575f82a9abfde7e78281e45.jpg)
 
 The trick is to use the symmetry of the kolam. The typical symmetry used is the cyclic symmetry, as shown in the above figure. This is also the most complex and the most impressive one, apart from being the most common (the others are reflection symmetry between the halves). This reduces the problem of remembering the whole kolam, to one of remembering just one quarter of it. Of course, nothing stops us from creating a completely asymmetrical one, but I haven't seen it in daily use (maybe I should explore more of that, now that it is easy with this program).
 
@@ -34,13 +34,13 @@ You can see the connecting lines in green in the above figure. The darker shaded
 
 **Kolam as a continuous curve**
 
-![](TJ%20Kolam%20-%20An%20Overview/80ad708d79287ae7d5d2ec4403c147f4.jpg)
+![](/assets/images/TJ%20Kolam%20-%20An%20Overview/80ad708d79287ae7d5d2ec4403c147f4.jpg)
 
-![](TJ%20Kolam%20-%20An%20Overview/611fb8849bf5ea7ab8adfd07d004ca7a.jpg)
+![](/assets/images/TJ%20Kolam%20-%20An%20Overview/611fb8849bf5ea7ab8adfd07d004ca7a.jpg)
 
 If you see the sample kolams above, and observe the curve in the vicinity of the dots, you can see that it follows intuitive and simple patterns. I've enumerated these crossovers for vertices of various degrees. This picture was created by enlarging the kolam and rubbing out the irrelevant parts. Note particularly that a dot with a given degree can manifest in various angles. For example, see the difference in curve form for the dot of degree two. This seemingly insignificant point can confuse a novice's mind. When you see the link of bubbles with these crossovers, the curve's path should be pretty clear. But again, how to draw the curve in one single flow, without resorting to modeling the physical bubbles?
 
-![](TJ%20Kolam%20-%20An%20Overview/9167d69a58c6c28754976abd3eacac76.jpg)
+![](/assets/images/TJ%20Kolam%20-%20An%20Overview/9167d69a58c6c28754976abd3eacac76.jpg)
 
 This brings us to the final piece of logic. This is nothing but the same bubble technique abstracted to its minimal essence. You can try tracing from the dot labeled as '1' and proceed till '17'. Be careful while traversing the busy 9-13-15 point. This point of degree four will have four transits (three shown here). Typically a point of n-degree (n lines attached to it), will have n transits.
 

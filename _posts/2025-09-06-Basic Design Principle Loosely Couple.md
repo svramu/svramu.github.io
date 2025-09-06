@@ -17,7 +17,7 @@ In my initial draft, I had copied lot of text from the Gang of Four Design Patte
 
 **Class Inheritance &amp; Abstract Classes: Code Reuse**
 
-![](Basic%20Design%20Principle%20Loosely%20Couple/f4c8a4accb2bac2c0f31e9a93818cc6b.jpg)
+![](/assets/images/Basic%20Design%20Principle%20Loosely%20Couple/f4c8a4accb2bac2c0f31e9a93818cc6b.jpg)
 
 After all the obvious disadvantages of Implementation Inheritance, we must understand fully the *need* for it too. Though *Polymorphism* is the real hallmark of OO extensibility, *Code Reuse* is also a goal. Misusing a tool doesn't preclude the real benefit of it.
 
@@ -52,9 +52,9 @@ Though the specific classes can implement the Interface directly still (and it h
 
 **Interface: Polymorphism &amp; Multiple-Inheritance**
 
-![](Basic%20Design%20Principle%20Loosely%20Couple/effec771955664196801820c776e455f.jpg)
+![](/assets/images/Basic%20Design%20Principle%20Loosely%20Couple/effec771955664196801820c776e455f.jpg)
 
-![](Basic%20Design%20Principle%20Loosely%20Couple/9c3dfb37fa03a0f8ca28e8746138d8d3.jpg)
+![](/assets/images/Basic%20Design%20Principle%20Loosely%20Couple/9c3dfb37fa03a0f8ca28e8746138d8d3.jpg)
 
 A **mixin** class is a class that's intended to provide an optional interface or functionality to other classes. It's similar to an abstract class in that it's not intended to be instantiated. Mixin classes require multiple inheritance.
 

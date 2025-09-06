@@ -6,7 +6,7 @@ A first hand report on using Unicode with XML
 
 **The New Code: Unicode**
 
-![](Using%20Unicode/8849b988b82bd396096b1a040d74e7d4.jpg)
+![](/assets/images/Using%20Unicode/8849b988b82bd396096b1a040d74e7d4.jpg)
 
 As we all know, Unicode is the standard for encoding characters of different languages, independent of the Programming Language and the Operating System. Normally a single Character is represented in single-byte character set (SBCS), multi-byte character set (MBCS) or double-byte character sets (DBCS). In Unicode character set, each character is represented by two bytes. Thus a Unicode string is a sequence not of individual bytes but of two-byte words. Check more about [Unicode](http://www.unicode.org/). Technology
 
@@ -14,7 +14,7 @@ Our company mostly work on Microsoft Technology. We were using Windows 2000 Serv
 
 **The Start**
 
-![](Using%20Unicode/d1a96482361f472a6763394ea1455bdd.jpg)
+![](/assets/images/Using%20Unicode/d1a96482361f472a6763394ea1455bdd.jpg)
 
 One of our clients asked for Chinese Language support in one of our web application. Our instance reflex was to use Extensible Markup Language (XML) and Extensible Stylesheet Language (XSL). That is, use a static XML file to store the different linguistic data and to transform the default language (English) to the regional language with XSL. It was very easy to create the XML with Unicode character, enable the language you need in the windows 2000 from the regional settings and browse the web and copy the words and paste into the XML file. I was trying to find some web site in Tamil rather than Chinese (Better to work with the devil you know ;-)) I found a nice site [http://www.jaffnalibrary.com/tools/Unicode.htm](http://www.jaffnalibrary.com/tools/Unicode.htm) which works with Tamil phonetic just type in English and get words in Tamil.
 

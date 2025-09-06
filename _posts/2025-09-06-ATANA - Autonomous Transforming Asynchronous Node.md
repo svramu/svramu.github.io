@@ -4,7 +4,7 @@ An attempt to model any software as a collection of XML transforming nodes
 
 *S V Ramu (2002-06-08)*
 
-![ATANA Architecture 1](ATANA%20-%20Autonomous%20Transforming%20Asynchronous%20Node/28ca38e611408c7f4d5667032d9a9f51.jpg)
+![ATANA Architecture 1](/assets/images/ATANA%20-%20Autonomous%20Transforming%20Asynchronous%20Node/28ca38e611408c7f4d5667032d9a9f51.jpg)
 
 ### Meta Prelude
 
@@ -12,9 +12,9 @@ This article is a continuation to few other earlier articles, on the importance 
 
 **The Architecture**
 
-![ATANA Architecture 2](ATANA%20-%20Autonomous%20Transforming%20Asynchronous%20Node/501a818a5dc66a0129b627bea8c3953a.jpg)
+![ATANA Architecture 2](/assets/images/ATANA%20-%20Autonomous%20Transforming%20Asynchronous%20Node/501a818a5dc66a0129b627bea8c3953a.jpg)
 
-![ATANA Architecture 3](ATANA%20-%20Autonomous%20Transforming%20Asynchronous%20Node/aa54e5793988e5e946514fc5cce1b827.jpg)
+![ATANA Architecture 3](/assets/images/ATANA%20-%20Autonomous%20Transforming%20Asynchronous%20Node/aa54e5793988e5e946514fc5cce1b827.jpg)
 
 As far as I know, this is exactly what Cocoon is doing. Except that I haven't explored all its potentials and limitations, so cannot quote it for reference, except reuse the terms like *generators*, *serializers*, etc. Also, it is point less to wait for someone else to provide for us. Somewhere, without worrying about false starts we have to clear our own dreams. In that sense this article is an attempt to spell out as clearly as possible, what is really needed in an architecture. Because without that being clear, we won't recognize the good thing that is out there, even if we see it. This is just an active way of learning. Instead of just trying to understand what is there, we try to define what we want and start finding that. In that process, if an already existing thing answers our question, we can pick it up and proceed further with new dreams. If there is no answer for our unique question, then we create one. If you are mentally prepared, this simulated rediscovery is very beneficial and always keeps you meaningfully busy.
 

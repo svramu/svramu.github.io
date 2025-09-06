@@ -10,7 +10,7 @@ In continuing the language survey, that started with [Python](http://www.tattvum
 
 **Reuse and 'Design by Contract'**
 
-![Eiffel Tower](DBC%20Eiffel%20and%20Java/56870b04ffc2c690f541a7807d8af2ef.jpg)
+![Eiffel Tower](/assets/images/DBC%20Eiffel%20and%20Java/56870b04ffc2c690f541a7807d8af2ef.jpg)
 
 The Holy Grail of all software effort is *Reuse*. None of us, who take pride in what we do, would like to recreate again and again what we have done well already. Like all other creative fields like Science, Music, Art, Films etc., in software too, building upon old achievements is a sacred act. Unfortunately one big impediment in achieving this is that the requirements are changing continuously, and a piece of code written for one purpose rarely fits a new one. And with the notorious *Reuse error* of the much touted [Ariane spacecraft debacle](http://www.eiffel.com/doc/manuals/technology/contract/ariane/), one is in fact very hesitant to reuse something on its face value. The article says, A recent $500 million software error provides a sobering reminder that this principle is not just a pleasant academic ideal. On June 4, 1996, the maiden flight of the European Ariane 5 launcher crashed, about 40 seconds after takeoff. Media reports indicated that a half-billion dollars was lost - the rocket was uninsured.
 

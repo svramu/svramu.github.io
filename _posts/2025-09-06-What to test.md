@@ -63,7 +63,7 @@ assert false: message;
 
 **Components are either a Library or a Client or both**
 
-![Components](What%20to%20test/5b66639b1675b9217f384a162418a92f.jpg)
+![Components](/assets/images/What%20to%20test/5b66639b1675b9217f384a162418a92f.jpg)
 
 Let me define few things for easy reference. *A Component is a chunk of code, which can be built and tested by a developer in isolation.* Ah, that is almost Utopian, but that is the goal and full intention. So you can imagine an application as a collection of components working together. And any component might be depending on other components, and might be depended upon by some others. So a same component can be both dependent and depended upon. When it depends on something it acts as a *Client* (say Cli), consumer. And when it is being depended upon, it acts as a *Library* (say Lib), provider. The User is of course the ultimate client, and maybe the Database can be considered as the ultimate *Library*.
 

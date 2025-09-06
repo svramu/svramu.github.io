@@ -5,7 +5,7 @@ The XML and Web Services age
 
 **The Three Models**
 
-![](Isnt%20OOP%20dead/fabeddce82a8adcf9b00ac95282ec119.jpg)
+![](/assets/images/Isnt%20OOP%20dead/fabeddce82a8adcf9b00ac95282ec119.jpg)
 
 At present there are three competing models to represent data, namely, RDBMS, Objects, and lately XML. Where one model should relinquish control to the other, and which should do what, is a debate of considerable entertainment to us. Currently there is a broad spectrum of solutions that are considered to be best, right from one-of-the-three-alone is sufficient for everything fanaticism, to everything-is-needed-for-sure type of diplomacy. My favorite is XML, and XML alone. Why this fanaticism? Chronologically the order of maturity of these three is RDBMS, Objects and recently XML. Each has its own merits and its own niche to occupy. All three were trying to satisfy the Data-Method dichotomy of the programming world. The one that seamlessly bridges both will succeed. XML can, will and is!
 

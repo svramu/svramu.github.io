@@ -31,21 +31,21 @@ There is no randomness in this scenario, except the initial condition. After tha
 
 *   For some starting cell configuration, there will be no visible change, as all cells get stuck with the 2,3 neighbor rule. Each one of the colored configuration below is stable, and won't change in any number of generations. Also, any other arrangement that happens to come to these states, will stay here forever.
 
-![image](Chaos%20Fractals%20and%20P2P%20Programming/7b6b897668dfc0986d97b4d36644a8de.jpg)
+![image](/assets/images/Chaos%20Fractals%20and%20P2P%20Programming/7b6b897668dfc0986d97b4d36644a8de.jpg)
 
 *   Some states oscillate between few finite numbers of states (two here). These too are stable final states, albeit a dynamic stability. The key cause is the dynamic birth and death of cells.
 
-![image](Chaos%20Fractals%20and%20P2P%20Programming/0ce49a6236ec97ead9cec172129f8a8c.jpg)
+![image](/assets/images/Chaos%20Fractals%20and%20P2P%20Programming/0ce49a6236ec97ead9cec172129f8a8c.jpg)
 
 *   If the cell arrangement gets caught in the below-two/above-three neighbor rule, then the arrangement steadily decays, and after some generations, the whole population dies out, or hits a stable end.
 
-![image](Chaos%20Fractals%20and%20P2P%20Programming/d94fada25bdcbb22166dd440a96785bf.jpg)
+![image](/assets/images/Chaos%20Fractals%20and%20P2P%20Programming/d94fada25bdcbb22166dd440a96785bf.jpg)
 
 *   Sometimes interesting things happen. If things are properly arranged, the creations and deaths of cells will so suitably happen, that the whole setup seemingly moves about. Of course many other dynamic configurations are possible, and you can experiment them in the above said free program.
 
-![image](Chaos%20Fractals%20and%20P2P%20Programming/bc4b9049d46f10fc21064c1ad960a70a.jpg)
+![image](/assets/images/Chaos%20Fractals%20and%20P2P%20Programming/bc4b9049d46f10fc21064c1ad960a70a.jpg)
 
-![image](Chaos%20Fractals%20and%20P2P%20Programming/cc9c8a044b6d8d2b762b4da9db1ac1c0.jpg)
+![image](/assets/images/Chaos%20Fractals%20and%20P2P%20Programming/cc9c8a044b6d8d2b762b4da9db1ac1c0.jpg)
 
 The importance and the novelty of this simulation is that these cells resemble the human population with an amazingly similarity. If our civilization too starts with different initial conditions, we too will propagate, oscillate, completely die out, or maybe move about. Another beauty of this game is that the rules are so simple, and yet the possibilities are so innumerable. Even for a 5-10 cell configuration, you need a computer to simulate the behavior. Whether a given population will grow on for ever, or that it will die out or stabilize on some state is an open question and completely determined by the initial condition (if so after how many generation?). From what I've seen, all population comes to a standstill (either completely wiped out or hits a dead-end). Maybe we can prove this from the two rules alone.
 
@@ -57,11 +57,11 @@ The rigorous definition of Fractals has something to do with *Space Filling Curv
 
 We can easily make a program with recursive logic to visually present the Von Koch Quadric Curve (looks nicer than the J2SE demo, as the sides are straight). The idea is to start with a simple straight line and continuously apply the square sine wave like shape to each edge at each stage. You can see this applied to a square.
 
-![image](Chaos%20Fractals%20and%20P2P%20Programming/cdd556afbb83762aa50fefae422c3711.jpg)
+![image](/assets/images/Chaos%20Fractals%20and%20P2P%20Programming/cdd556afbb83762aa50fefae422c3711.jpg)
 
 **Serpenski's Triangle:**
 
-![image](Chaos%20Fractals%20and%20P2P%20Programming/1559178c510f3c7cdea25f69f677651f.jpg)
+![image](/assets/images/Chaos%20Fractals%20and%20P2P%20Programming/1559178c510f3c7cdea25f69f677651f.jpg)
 
 Is it really possible to have a system that is random in its successive states, and yet is very predictable overall? A popular and simple example is the Serpenski's Triangle.
 
@@ -76,7 +76,7 @@ The importance of chaos is that it does salvage some information from a seemingl
 
 This example is also a link between Chaos and Fractals. This same Serpenski's Triangle can be made from completely deterministic fractal like rules. This makes me suspect that maybe every random phenomenon can be approximated to some very *recursive and self-repetitive* deterministic fractal rules. To produce this triangle through fractals, just apply the following figure recursively to each side of itself (in one consistent direction).
 
-![image](Chaos%20Fractals%20and%20P2P%20Programming/bc1ce4ffa51ae1e0f695ffa1e14057fb.jpg)
+![image](/assets/images/Chaos%20Fractals%20and%20P2P%20Programming/bc1ce4ffa51ae1e0f695ffa1e14057fb.jpg)
 
 **P2P Programming: Minimum Rules and Maximum Possibilities**
 

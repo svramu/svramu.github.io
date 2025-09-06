@@ -30,7 +30,7 @@ So, when we embark on *Designing* a project, our prime goal should be to find wh
 
 **Polymorphism - The Parallelism for development**
 
-![img](Parallelism%20-%20The%20goal%20of%20planning/f6cc92b4106ac44b0cea8756a301b048.jpg)
+![img](/assets/images/Parallelism%20-%20The%20goal%20of%20planning/f6cc92b4106ac44b0cea8756a301b048.jpg)
 
 Having type checking in a language is both a boon and a limitation. Undoubtedly it is a boon, within a closed module. But for inter module dependency it is mistake. If a module (a part of the project) depends on another module, through a Class then that could be dangerous (or at least wasteful). Because the implementation details of the class is an inescapable overhead now. Instead if,
 

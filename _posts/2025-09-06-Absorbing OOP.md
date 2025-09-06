@@ -3,7 +3,7 @@
 My journey towards OOP absorption
 *SB Senthil (2002-06-04)*
 
-![](Absorbing%20OOP/1360587c3eaf22ef31ef653108a15cab.jpg)
+![](/assets/images/Absorbing%20OOP/1360587c3eaf22ef31ef653108a15cab.jpg)
 
 **Prelude**
 

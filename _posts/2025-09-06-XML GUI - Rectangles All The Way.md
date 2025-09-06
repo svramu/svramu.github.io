@@ -24,11 +24,11 @@ For example, think of a typical login screen this way,
         <tr>
             <td><Label title="Name"/></td>
             <td><Editor name="txtName" text=""/></td>
-        </tr>    
+        </tr>
         <tr>
             <td><Label title="Password"/></td>
             <td><PassEditor name="txtPass"/></td>
-        </tr>    
+        </tr>
     </table>
 </Screen>
 ```
@@ -39,7 +39,7 @@ Notice how simply and intuitively this captures the essence of a GUI design. Bew
 
 From the day one, when Apple were doing their pioneering experiments with GUI (Graphical User Interface), through the X Windows standardization, through Windows 3.1, then 95, XP and now the Java Swings, one thing has remained constant and unquestioned. That, a screen should be Rectangular! A screen of interaction is a 'window' to the processes and data inside.
 
-![image](XML%20GUI%20-%20Rectangles%20All%20The%20Way/8065b31a28d062d5dc5c24c54058b04b.jpg)
+![image](/assets/images/XML%20GUI%20-%20Rectangles%20All%20The%20Way/8065b31a28d062d5dc5c24c54058b04b.jpg)
 
 Only three regular (equal sided) figures can tile the plane. Namely a Triangle (3 sides), a Square (4 sides), and a Hexagon (6 sides). Both a triangle and a hexagon should be regular to tile the plane simply. Also these figures cannot be arbitrarily decomposable into themselves. That is, a triangle cannot be internally divided into triangles, the way we want. A hexagon similarly cannot be subdivided into hexagons the way we want. (Can a hexagon be constructed from hexagons at all? I'm conscious that I'm treading a vast area of research here. Tiling a plane with asymmetric figures was well analyzed by Roger Penrose, the noted engraver Escher, and others. My intention is only to show the overall limitations of these miscellaneous tiling figures). What is left is the four sided figure. Of course a square tiles the plane. The important thing is, even a Rectangle can tile a plane. Another useful feature of rectangles is, we can cover a rectangle with different sized rectangles too. Also these internal rectangles can be easily placed in such a way, that the space remaining after placing a rectangle, will also be a rectangle.
 
@@ -49,7 +49,7 @@ This is why rectangles are so important and friendly to GUI designers. Hence it 
 
 Who has not used the HTML tables! This versatile model has simplified the web layouts phenomenally. Even though CSS is trying to eliminate the use of tables for layouts (with a similar Box model), Tables are here to stay. The beauty of this model is its powerful simplicity. It just has three tags `TABLE`, `TR` and `TD`, and two key attributes, `colspan` and `rowspan`. With this limited infrastructure, it is giving the designers tremendous flexibility. Assuming that you know to use HTML tables, let us use an example to show its power and limitations.
 
-![image](XML%20GUI%20-%20Rectangles%20All%20The%20Way/d6472d501e73af91ef2f8b01f06f1e30.jpg)
+![image](/assets/images/XML%20GUI%20-%20Rectangles%20All%20The%20Way/d6472d501e73af91ef2f8b01f06f1e30.jpg)
 
 ```xml
 <table>
@@ -136,7 +136,7 @@ Note that we can avail the following shorthand if need be,
 ```xml
 <BOX>
     <BOX><BOX>
-                =    
+                =
     </BOX></BOX>
 </BOX>
 ```
@@ -185,11 +185,11 @@ Though this has lot more characters than the previous Box layout, this docking m
 
 There seem to be two basic layouts now. The original HTML table model and the refined Dockable Box model. I initially thought that they are isomorphic in their capabilities to specify any rectangular layout. But see the following layout for an exception. The irony is, this is very elegantly specifiable with the Table model. Maybe the Table model is still required to express the fringe case layouts. I believe this following case is not too common in GUI requirements.
 
-![image](XML%20GUI%20-%20Rectangles%20All%20The%20Way/d8b2a34f6c86ec7fae0fcce859cb8654.jpg)
+![image](/assets/images/XML%20GUI%20-%20Rectangles%20All%20The%20Way/d8b2a34f6c86ec7fae0fcce859cb8654.jpg)
 
 The weakness seems to be in not being able to specify cyclically overlapping panels. In the Box model, one of the boxes will always be fully covering a side. Of course it doesn't mean that a split in a side is inexpressible in the Box model. As the following figure shows, the split boxes can themselves be put in a regular top box (here).
 
-![image](XML%20GUI%20-%20Rectangles%20All%20The%20Way/ce66696c54b985bf5fbd02c1bde6746a.jpg)
+![image](/assets/images/XML%20GUI%20-%20Rectangles%20All%20The%20Way/ce66696c54b985bf5fbd02c1bde6746a.jpg)
 
 **Epilogue**
 

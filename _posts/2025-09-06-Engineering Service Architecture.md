@@ -4,7 +4,7 @@ On modularizing a system as reusable services
 
 *S Ganesh (2002-06-01)*
 
-![service architecture](Engineering%20Service%20Architecture/1793b2683f36f043e273a55c2f56e6f4.jpg)
+![service architecture](/assets/images/Engineering%20Service%20Architecture/1793b2683f36f043e273a55c2f56e6f4.jpg)
 
 ## Introduction
 
