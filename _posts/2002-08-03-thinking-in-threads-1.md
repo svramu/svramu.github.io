@@ -9,7 +9,7 @@ In search of a versatile synchronization primitive...
 
 First, I must apologize for stealing the title prefix ('Thinking in...') of [Bruce Eckle](https://www.mindview.net/Books/TIJ/), who gave this very intuitive prefix its right place. I envy and hence respect his clarity, and thus this mimicry is justified ;-). Knowing the syntax or semantics of some concept is one thing and using it is another. And understanding something is not always a completable task, but a continuing one. I don't mean to make knowledge an elite thing, but it *is* usually so profound that it becomes an addiction. More than *Knowing* something, we have to be *Thinking* in it. Understanding something is seeing it in as many angles as is possible. So much so, that the whole picture soon becomes bigger than its parts.
 
-In this article I'll be trying to explore the concept of Threads, and hence Parallel Programming as a whole, by mainly focusing on *Locks*, the Synchronization Primitives. I must thank my friend Senthil, with whom it has now become a routine for me to argue the details of a concept, and invariably be benefited from his original questions and understanding. By the way, sometime back I compiled a series of six articles on threads. But I don't dare to publish them, as they contain far more quotes than can be allowed under Fair Use clause of Copyright Law. Anyway, being clear that it was done only to present these clear ideas under one collective perspective, and not to reduce their readership, I'm including [these useful quotes](Thinking%20in%20Threads%20Quotes.html) as a separate file.
+In this article I'll be trying to explore the concept of Threads, and hence Parallel Programming as a whole, by mainly focusing on *Locks*, the Synchronization Primitives. I must thank my friend Senthil, with whom it has now become a routine for me to argue the details of a concept, and invariably be benefited from his original questions and understanding. By the way, sometime back I compiled a series of six articles on threads. But I don't dare to publish them, as they contain far more quotes than can be allowed under Fair Use clause of Copyright Law. Anyway, being clear that it was done only to present these clear ideas under one collective perspective, and not to reduce their readership, I'm including [these useful quotes]({% post_url 2002-08-03-thinking-in-threads-quotes %}) as a separate file.
 
 Initially I thought this would be a standalone article, but due to time crunch, I'm making this the part one of a series. In this instalment, I vent my passionate thoughts on the basics of parallel programming. This done, the next one should be bit more practical and concrete.
 
@@ -23,7 +23,7 @@ My take was and is, that there are two areas that are becoming more and more pro
 
 **The Single Sequence idiom: Process and Thread**
 
-*Checkout the accompanying* [*master quotes*](Thinking%20in%20Threads%20Quotes.html)
+*Checkout the accompanying* [*master quotes*]({% post_url 2002-08-03-thinking-in-threads-quotes %})
 
 A clean Idiom for imagining the parallel processes is vital for successful Parallel Algorithms. The Idiom should be broad enough to allow all Parallelism's features without going into the implementation details of the OS. It is also important that the idiom be same or at least consistent between single processor machine (pseudo parallelism) and multi- processor machines. This mimicking of parallelism in single-processor machine is vital for simplifying the already tough domain of creating algorithms for parallel operations, and hence is being supported on all modern OS platforms, as *Preemptive Multi-Tasking*.
 
@@ -35,7 +35,7 @@ The difference between process and thread is not just semantic; usually a full-b
 
 **The issues of parallel programming**
 
-*Checkout the accompanying* [*master quotes*](Thinking%20in%20Threads%20Quotes.html)
+*Checkout the accompanying* [*master quotes*]({% post_url 2002-08-03-thinking-in-threads-quotes %})
 
 Usually, having two or more processes simultaneously is not catastrophic, but this danger is very visible when same file or database is used by two different processes, without some form of synchronization. In case of thread, this problem of sharing the same resource safely is much more stark, as all of the process's global variables is common now (instead of just external files and databases).
 
@@ -43,7 +43,7 @@ It should be remembered fully well, that almost all solutions provided by OS and
 
 **The synchronization primitives**
 
-*Checkout the accompanying* [*master quotes*](Thinking%20in%20Threads%20Quotes.html)
+*Checkout the accompanying* [*master quotes*]({% post_url 2002-08-03-thinking-in-threads-quotes %})
 
 It was an interesting study to look into the busy waiting models to get an overview into the mindset of yesteryears (all dating back to 1960s). Busy waiting means, that the waiting process uses its full quota of CPU time just waiting. The other alternative is to *Sleep*, that is, the CPU just checks if the process's waiting condition is over, if not it just dumps it and moves to next process for servicing. This way, CPU time is not wasted in waiting. Various primitives like Semaphores, Event Counters and Monitors are available to use this non-busy waiting.
 
@@ -55,11 +55,11 @@ Like threads, *Critical Section* too is just a concept, and is subjective of the
 
 Over the years, each one has accumulated supporters who maintain that their favorite way is the best way. The truth of the matter is that **all these methods are essentially semantically equivalent** (at least as far as single CPU systems are concerned). **Using any of them, you can build other ones**... equivalence... provides more insight and understanding about how the primitives work and how they can be implemented.
 
-I have put many of the quotes to the accompanying page, but I cannot do away with the above one. This is in fact the very crux of this whole article. True to its words, in analyzing the equivalence of synchronization primitives, I have come to understand many subtle nuances of threads. By the way, it is interesting to note Tanenbaum is in Netherlands and Dijkstra, whom he quotes profusely, is a Dutch too. Also do you recognize the name Hore? He is same person who was mentioned in the [Eiffel article](https://www.tattvum.com/Articles/2002/2002-07/2002-07-28/Ramu-SE-20020727-DBCEiffelJava.html), as the pioneer of Design By Contract paradigm, along with Dijkstra. A legendary clan indeed!
+I have put many of the quotes to the accompanying page, but I cannot do away with the above one. This is in fact the very crux of this whole article. True to its words, in analyzing the equivalence of synchronization primitives, I have come to understand many subtle nuances of threads. By the way, it is interesting to note Tanenbaum is in Netherlands and Dijkstra, whom he quotes profusely, is a Dutch too. Also do you recognize the name Hore? He is same person who was mentioned in the [Eiffel article]({% post_url 2002-07-27-dbc-eiffel-and-java %}), as the pioneer of Design By Contract paradigm, along with Dijkstra. A legendary clan indeed!
 
 **The Java Model**
 
-*Checkout the accompanying* [*master quotes*](Thinking%20in%20Threads%20Quotes.html)
+*Checkout the accompanying* [*master quotes*]({% post_url 2002-08-03-thinking-in-threads-quotes %})
 
 When I was with Delphi, having tasted its neat Win32 documentation on Threads and Synchronization, I became bold enough to try the book *Modern Operating Systems by Andrew S. Tanenbaum*. This masterpiece, talked extensively about synchronization and its equivalence. Then coming into Java, and recognizing for the first time that Java's `synchronized` keyword, along with the `wait()` and `notify()` methods that is available on every Java object (a lock, if need be), I was thrilled to understand firsthand the patterns of great minds. It is only after this that I browsed the Java Language Specification (JLS) by James Gosling, Bill Joy and Guy Steel, thus proving my own finding, for myself. For more details you must read relevant sections of these two authentic and clear sources and of course the concrete *JavaTM 2 Platform Std. Ed. v1.4.0 - documentation of Sun, 2001*.
 
