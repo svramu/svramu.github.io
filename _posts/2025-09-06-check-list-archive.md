@@ -3,5 +3,5 @@ layout: post
 title:  "Check List Archive"
 ---
 
-- 1.  [Open Source Software Tools (0.3)](The%20Best%20OSS%20Tools%20by%20Category%20-%2003%20-%202002-11-22.html), **2002-11-22**
+- 1.  [Open Source Software Tools (0.3)]({% post_url 2002-05-04-the-best-oss-tools-by-category-02-2002-05-04 %}), **2002-11-22**
 

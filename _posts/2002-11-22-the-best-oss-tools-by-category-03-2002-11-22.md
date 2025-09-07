@@ -1,4 +1,7 @@
-&{<nil> false <nil> <nil> [] <nil> <nil> <nil> <nil> # The Best OSS Tools by Category - 0.3 - (2002-11-22)
+---
+layout: post
+title:  "The Best OSS Tools by Category - 0.3 - (2002-11-22)"
+---
 
 Post date: Nov 28, 2008 12:22:10 PM
 
@@ -25,4 +28,4 @@ The stared (*) tools are not completely open source, though free in some sense.
 *   Servlet Container : Apache Tomcat 4.1.29
 *   Web Server : Apache HTTPD 2.0.48
 *   Test Harness : JUnit 3.8.1
-}
+

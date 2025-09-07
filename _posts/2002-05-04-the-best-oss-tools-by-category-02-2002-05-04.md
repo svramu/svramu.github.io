@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  ""
+title:  "The Best OSS Tools by Category - 0.2 - (2002-05-04)"
 ---
-&{<nil> false <nil> <nil> [] <nil> <nil> <nil> <nil> # The Best OSS Tools by Category - 0.2 - (2002-05-04)
 
 Post date: Nov 28, 2008 12:19:59 PM
 
@@ -29,4 +28,4 @@ The stared (*) tools are not completely open source, though free in some sense.
 *   Security Architecture : GNU Privacy Gaurd
 *   Servlet Container : Apache Tomcat
 *   Web Server : Apache
-*   Test Harness : JUnit (Java)}
+*   Test Harness : JUnit (Java)

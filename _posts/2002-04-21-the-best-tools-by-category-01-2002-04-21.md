@@ -1,4 +1,7 @@
-&{<nil> false <nil> <nil> [] <nil> <nil> <nil> <nil> # The Best Tools by Category - 0.1 - (2002-04-21)
+---
+layout: post
+title:  "The Best Tools by Category - 0.1 - (2002-04-21)"
+---
 
 Post date: Nov 28, 2008 12:18:39 PM
 
@@ -20,4 +23,4 @@ The hyperlinks, version, and usage scenarios will be updated soon...
 -   E Books : Project Guttenberg, HTML Writers Guild
 -   Utilities (Compression, Converters...) : MinGW, GnuWin32 utilities (Source Forge)
 -   Operating System : Linux
-}
+

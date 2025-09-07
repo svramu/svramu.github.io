@@ -48,7 +48,7 @@ title:  "Articles Archive"
 43. 2002-04-07, [TATTVUM: Timeline for 2002]({% post_url 2002-02-18-tattvum-timeline-for-2002 %})
 44. 2002-03-31, [What is OOP?]({% post_url 2002-03-30-what-is-oop %})
 45. 2002-03-31, [Don't grow Trees!]({% post_url 2002-03-25-dont-grow-trees %})
-46. 2002-03-24, [OOP=E+P]()
+46. 2002-03-24, [OOP=E+P]({% post_url 2000-12-19-oop-encapsulation-polymorphism %})
 47. 2002-03-24, [Basic Design Principle: Loosly Couple]({% post_url 2001-11-13-basic-design-principle-loosely-couple %})
 48. 2002-03-24, ['OOP Oversold'?]({% post_url 2002-03-24-oop-oversold %})
 49. 2002-03-23, [Why Calculus? (Volume of Sphere)]({% post_url 2000-11-20-why-calculus %})
