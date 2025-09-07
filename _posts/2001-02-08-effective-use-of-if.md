@@ -42,4 +42,4 @@ For the example given in this article Abstract Factory Design Pattern (see Gang-
 **Conclusion**
 
 There should be some language support to streamline the use of 'IF'. It is natural to make good programming practices as a part of the language construct itself, thus making good programming mandatory and thereby not allowing the programmers to commit errors. This is not first time this happened in the past, it has happened with global variables, with GOTO and may be soon with 'IF' as well.
-}
+

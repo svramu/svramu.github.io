@@ -1,7 +1,10 @@
-&{<nil> false <nil> <nil> [] <nil> <nil> <nil> <nil> # Absorbing OOP...
+---
+layout: post
+title:  "Absorbing OOP..."
+author: senthil
+---
 
 My journey towards OOP absorption
-*SB Senthil (2002-06-04)*
 
 ![](/assets/images/Absorbing%20OOP/1360587c3eaf22ef31ef653108a15cab.jpg)
 
@@ -41,4 +44,3 @@ My first Application required sending the data from a department to a Service (a
 **Finale**
 
 At this juncture of my journey in OOP, I would say "OOP is a wild Horse! It takes much time to tame, but it can win you in the long run". This is my philosophy with OOP. The above application (my first OOD), after its initial version, has under gone hundreds of changes in user requirements, from various clients, and yet the architecture withstood all these modularly. The application is up and running still!
-}
