@@ -3,8 +3,7 @@ layout: post
 title:  "TATTVUM: Timeline for 2002"
 ---
 
-The Immediate, and the Directions
-*S V Ramu (2002-02-18 : An old internal article)*
+The Immediate, and the Directions (An old internal article)
 
 **Timeline Summary**
 

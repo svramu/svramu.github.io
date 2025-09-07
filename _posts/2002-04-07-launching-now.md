@@ -50,4 +50,4 @@ Believe me when I say that, we believe in the social aspect of the open-source m
     This is a very old internal article on the direction we wanted to try out. This article explores few tentative timelines and areas of focus. This is cited here only to pat ourselves on our back ;)
 2.  [Automate: Not at the cost of Freedom](https://www.tattvum.com/Articles/2002/2002-04/2002-04-07/Ramu-SE-20020407-FreedomAndSCM.html)
     Our foray into open-source projects have prompted us to closely reconsider the SCM model we would like to use. Simultaneously the thought of programmer's freedom is analyzed with the tools that they use.
-}
+

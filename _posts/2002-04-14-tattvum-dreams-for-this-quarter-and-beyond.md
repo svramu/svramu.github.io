@@ -4,7 +4,6 @@ title:  "TATTVUM - Dreams for this quarter and beyond"
 ---
 
 Some thoughts on the content model for the site
-*S V Ramu (2002-04-14)*
 
 **The Weekly Site Hosting**
 
@@ -50,4 +49,4 @@ There is not much change in what you need to do,
 **Software archive postponed**
 
 Once again the software archive has been postponed. Last week I browsed for some GNU free utilities for windows, and found some treasure troves. We intend to share them with you all, with some elaboration about how they can be used together with other free tools. It is important that we exhaustively explore the existing open source tools before we create our own.
-}
+
