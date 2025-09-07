@@ -1,8 +1,9 @@
-&{<nil> false <nil> <nil> [] <nil> <nil> <nil> <nil> # OOP = Encapsulation + Polymorphism
+---
+layout: post
+title:  "OOP = Encapsulation + Polymorphism"
+---
 
 An overview on Object Oriented Programming
-
-*S V Ramu (2000-12-19)*
 
 **0. Introduction**
 
@@ -261,4 +262,3 @@ Inheritance is the basic infrastructure required for the Polymorphic behavior. P
 You can realize polymorphism in two ways, one through the class (implementation) inheritance, and other through the interface inheritance (implementation). In the case of Implementation Inheritance, the base class is used in the unchanging code, and an instance of its child classes is dynamically bound to it in runtime. In the case of Interface Inheritance, the Interface is used in the unchanging code, and an instance of the Implementing classes is dynamically bound to it in runtime.
 
 Though Interface based Polymorphism is straightforward, Class based Polymorphism depends on 'Function overriding', Simple! If a parent class has an implemented method, the derived child class can either accept that without change, or it can completely change it, or else it can use the parent's version with some modification of its own (before or after it). In case of interface, the implementing classes must compulsorily provide an implementation, hence the scenario is lot simplified.
-}

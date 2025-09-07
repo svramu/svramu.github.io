@@ -1,9 +1,8 @@
-&{<nil> false <nil> <nil> [] <nil> <nil> <nil> <nil> ```markdown
-# Basic Design Principle: Loosely Couple
-
+---
+layout: post
+title:  "Basic Design Principle: Loosly Couple"
+---
 > Separate what is changing from what is not
->
-> *S V Ramu (2001-11-13)*
 
 **Introduction**
 
@@ -25,7 +24,7 @@ Class inheritance is basically just a mechanism for extending an application's f
 
 (Gang of Four) When we attempt to keep all the references maintained by a concrete class as Interfaces, the Interface Implementation becomes a big issue. Since Interfaces just define the method signature and not the implementation in itself, code reuse suffers, as every concrete class that implement these interfaces has to rewrite all the code, even if most of it are exactly similar. Implementation Inheritance is ideal for this not-so-elite activity of Code Reuse. One good pattern that can be employed would be to define an abstract class, with most of the common code going into it, and what is specific to various individual implementation could be an abstract method, which can latter be overridden and implemented by the derived classes. This is *Template Method Pattern*.
 
-```
+```java
 class AbstractImplementation implements Interface {
 
   abstract protected void protectedPrimitiveMethod();
@@ -67,4 +66,4 @@ Now that the popular OO idiom of Inheritance and Classes is clearly placed (thou
 We must also note, that with the emergence of Interface as the key OO abstraction, the role of class is relegated to a convenience role (even Parameterized classes fit this role). Thus the original assumption that classes have to be about *One thing* is no longer valid, this responsibility is taken by Interfaces now: A class could be implementing more than one dissimilar Interfaces, for code convenience sake. Today classes are the Implementation engines for one or more interfaces.
 
 In this light, it is interesting that the *Static methods* take up the role of *Constructors for the Interfaces*! In the footsteps of Factory Method Pattern. You can see the real-time usage of this in all modern Java API. The `new` keyword for Object instantiation is now only for primitive classes, otherwise *Static Factory Method* is doing all the job of Object instantiation, much more elegantly and extensibly; because, the way the JVM (or the language runtime) can instantiate specific instances for an interface, declaratively. This is OOP loose coupling in its heights.
-```}
+
