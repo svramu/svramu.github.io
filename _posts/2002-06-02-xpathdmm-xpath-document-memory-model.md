@@ -63,4 +63,4 @@ public interface XPathDMM {
 **Epilogue**
 
 This week I intended to give the working XALAN implementation of the above interface, but decided against it as I was shy of my shabby code. I'll try to clean it for public perusal, if possible with some more comments on the decision of each signature, and then present it. Meanwhile, if you are curious enough to overlook the coding style, I'll be more than glad to send it to you in mail, if you mail me (svramu at TATTVUM.com). I can guarantee that it works decent enough to be used in real-time code. Of course lot of improvements could be made to these method signatures, for allowing relative XPath addressing and other things. Sometime I wonder why Sun accepted JDOM for a JSR, without fully exploring XPath route. Maybe we can submit this for a JSR, if we are sufficiently confident of its ease of use! Stay tuned.
-}
+

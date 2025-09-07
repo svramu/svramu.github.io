@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  ""
+title:  "TATTVUM Java XPathDMM - 0.1 - (2002-06-23)"
 ---
-&{<nil> false <nil> <nil> [] <nil> <nil> <nil> <nil> # TATTVUM Java XPathDMM - 0.1 - (2002-06-23)
 
 Post date: Nov 28, 2008 12:44:55 PM
 
@@ -13,4 +12,4 @@ Post date: Nov 28, 2008 12:44:55 PM
 *Download the software:* TATTVUM-PoPP-TJXPathDMM-0.1-all.zip (~8k)
 
 *To Run the demo:* Unzip the download and run the class `org.tattvum.core.xml.test.TestXPathDMM`
-}
+

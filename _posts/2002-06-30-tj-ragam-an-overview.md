@@ -5,7 +5,7 @@ title:  "TJ Ragam - An Overview"
 
 An Indian style music palyer
 
-A PoPP archive explanatory article, for [TJRagam](PoPP%20-%20TJ%20Ragam.html)
+A PoPP archive explanatory article, for [TJRagam]({% post_url 2003-11-22-popp-tj-ragam %})
 
 **About Sound**
 
@@ -225,4 +225,4 @@ s-r- g-m-
 .... ....
 
 .... ....
-}
+
