@@ -4,7 +4,6 @@ title:  "TATTVUM - 2002 Q3 Reports and Plans"
 ---
 
 Focus on Development methodologies and Linux Analysis
-*S V Ramu (2002-07-06)*
 
 **Prelude**
 

@@ -26,7 +26,7 @@ title:  "Articles Archive"
 21. 2002-08-06, [Thinking in Threads - 1]({% post_url 2002-08-03-thinking-in-threads-1 %})
 22. 2002-07-28, [DBC, Eiffel, and Java]({% post_url 2002-07-27-dbc-eiffel-and-java %})
 23. 2002-07-21, [A night flight to Python]({% post_url 2002-07-14-a-night-flight-to-python %})
-24. 2002-07-06, [TATTVUM - 2002 Q3 Reports and Plans]()
+24. 2002-07-06, [TATTVUM - 2002 Q3 Reports and Plans]({% post_url 2002-07-06-tattvum-2002-q3-reports-and-plans %})
 25. 2002-06-30, [TJ Ragam - An Overview]({% post_url 2002-06-30-tj-ragam-an-overview %})
 26. 2002-06-30, [TJ Kolam - An Overview]({% post_url 2002-06-29-tj-kolam-an-overview %})
 27. 2002-06-16, [Absorbing OOP...]({% post_url 2002-06-04-absorbing-oop %})
