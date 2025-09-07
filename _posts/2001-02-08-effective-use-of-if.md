@@ -1,8 +1,10 @@
-&{<nil> false <nil> <nil> [] <nil> <nil> <nil> <nil> # Effective Use of 'IF'
+---
+layout: post
+title:  "Effective Use of 'IF'"
+author: ganesh
+---
 
 Is 'IF', the next generation GOTO ?!
-
-*Ganesh sethuraman (2001-02-08)*
 
 **Introduction**
 
