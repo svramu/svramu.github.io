@@ -1,7 +1,9 @@
-&{<nil> false <nil> <nil> [] <nil> <nil> <nil> <nil> # A night flight to Python
+---
+layout: post
+title:  "A night flight to Python"
+---
 
 First impressions while learning the Python language
-*S V Ramu (2002-07-14)*
 
 **What is Python?**
 
