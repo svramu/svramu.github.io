@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Equalities with Sums of Powers"
-categories: [Home, Article]
+categories: [Article]
 ---
 
 Post date: Dec 19, 2009 2:11:53 PM

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arduino? Good. Then?"
-categories: [Home, Article]
+categories: [Article]
 ---
 
 Post date: Aug 05, 2010 10:35:3 AM
