@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "PoPP - TJ XPathDMM"
+categories: [PoPP]
 ---
 
 **Introduction**
