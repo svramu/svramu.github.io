@@ -57,3 +57,10 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## Notes
+
+svramu.github.io/_posts/2025-09-06-management-do-unto-others.md
+(Management: Do unto others...)
+(Nice tile, but no article... not even in orig...)
+https://www.tattvum.com/the-nexus-between-application-design-and-management
