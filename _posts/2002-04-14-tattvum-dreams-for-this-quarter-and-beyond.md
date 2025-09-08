@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "TATTVUM - Dreams for this quarter and beyond"
+categories: [Article]
 ---
 
 Some thoughts on the content model for the site

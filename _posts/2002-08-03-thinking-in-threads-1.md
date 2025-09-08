@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Thinking in Threads - 1"
+categories: [Article]
 ---
 
 In search of a versatile synchronization primitive...
@@ -88,4 +89,4 @@ I realize that this is a hard way to conclude an article. But with the motto of 
 One thing, I've been fighting while writing this article is, in deciding the amount of quotes that is legitimate. I really don't want to get credit for an article that is just a compilation of intelligent quotes. On the contrary, the quotes included here and elsewhere, are only my humble tribute to those great souls that have allowed me to grasp the unknown. I feel it is far better to quote the original author, than produce a sloppy digest of it in our words. Yes, this cannot license me to reproduce the whole work of the original author, but within honest limits, this is a more reasonable approach. My dilemma has only heightened, when contrasting my own high handed serving of quotes, with that of a friend, who wanted to publish his compilation here. I said no to him, but I'm committing the same sin here. Only consolation is that, I'm indicating that something is a quote and what its source is, as clearly as possible. All the same, my partiality is irksome, to put it mildly. Of course this matter is not closed, I'll be pondering over this issue, would try if possible to get permission from the original authors, or maybe remove these quotes with just links to their pages, if available. After all, hasn't the old style of reading a book to somebody we love, highlighting something here, and warning about something there, been effective? Maybe there is a way to do this within the copyright framework.
 
 Whatever, the next article in this series, will explore these primitive in much more detail, with sample code.
-}
+

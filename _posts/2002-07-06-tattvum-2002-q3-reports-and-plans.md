@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "TATTVUM - 2002 Q3 Reports and Plans"
+categories: [Article]
 ---
 
 Focus on Development methodologies and Linux Analysis
@@ -27,4 +28,4 @@ Linux is becoming a more and more important platform. My initial study is exposi
 **Epilogue**
 
 I'm fully aware of the heavy hand waving that went by in the previous sections of this article. I think, this is unavoidable, and often the effective way to expound a dream or a plan. These plans are more a pressure than a leisurely nice-to-have skills. The more we realize the importance of these goals in our bones (so to say), more complete they will be. I'm also aware of the profuse eliding of certain weaknesses and realities; but again, beyond a point, self-torture is no good, and within limits self patting is useful. With that hope, we'll start this quarter afresh.
-}
+

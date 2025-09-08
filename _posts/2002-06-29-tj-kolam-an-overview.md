@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "TJ Kolam - An Overview"
+categories: [Article]
 ---
 
 An explanation for the TJKolam application in the PoPP archive

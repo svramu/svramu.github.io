@@ -2,6 +2,7 @@
 layout: post
 title:  "Absorbing OOP..."
 author: senthil
+categories: [Article]
 ---
 
 My journey towards OOP absorption

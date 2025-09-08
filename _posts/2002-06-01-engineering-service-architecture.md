@@ -2,6 +2,7 @@
 layout: post
 title:  "Engineering Service Architecture"
 author: ganesh
+categories: [Article]
 ---
 
 On modularizing a system as reusable services

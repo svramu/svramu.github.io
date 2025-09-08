@@ -2,6 +2,7 @@
 layout: post
 title:  "The Nexus Between Application Design and Management"
 author: senthil
+categories: [Article]
 ---
 
 The subjective aspects of software process models
@@ -82,4 +83,4 @@ There is one constant theme in all of the above aspects of developing software: 
 We are not at all against standards. Our pipe dream is still to find ways to achieve CMM-5 the fastest way. We consider the standards as checklists created by consensus. These accumulated wisdoms are very important. But as much as a question paper cannot make you pass an exam, a standard by itself can never improve you. Does that mean we stop trying to be standards compliant? Then does that mean, we stop certifying ourselves with exams? Standards have their place as a test to our worth. But the worth should go first. A year of intense schooling is what will make us pass the exam. A phase of intense self search is what will make an organization be compliant with standards.
 
 In all the market forces to make our process more and more perfect, we must not forget our self worth and or disallow the magic of team spirit to have its course. There is so much wisdom that is there hidden in our day to day problems, that it is astonishing that we search elsewere for our solutions. The nexus between the product and its people is ephemeral. There is much to software than just new tools, paradigms, or management courses. Application design should consider seriously the parallel development possibilities. As much as the dichotomy can confuse us, the synergy could be fantastic. For a developer who is alert and observing, there is great wisdom waiting to be discovered in the shabbiest of offices and in the sloppiest of mistakes.
-}
+

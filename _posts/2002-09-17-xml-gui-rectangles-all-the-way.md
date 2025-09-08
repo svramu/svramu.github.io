@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "XML GUI - Rectangles All The Way"
+categories: [Article]
 ---
 
 On laying out rectangular components in a rectangular GUI
@@ -197,4 +198,4 @@ The weakness seems to be in not being able to specify cyclically overlapping pan
 Like many of the article in this site, this article too is not trying to put forth a complete theory. The idea is to present the importance of XML based GUIs, and to stress the centralness of the Layout models in that XML definition. We see that, as it is, we need a mixture of two or more layouts to define any rectangular composition. Of course, what that set of layout is? And how we prove that they can fully define any rectangular composition? Is still unsolved for me. Also note that some simpler things are better done with a specific layout, than with the generics. For example, though the Java Grid Layout can be achieved with boxes themselves, a dedicated grid layout could simplify a situation. Maybe Java is wise in assuming that we need many different layouts, and we can always specify a new layout to simplify our specific requirement. By the way, where exactly does GridBag layout contribute, in this milieu?
 
 In the context of the XML GUI as a whole, we do need to modularize the layouts and components, in such a way that we must be able to define new layouts and components, given the set of atomic units. In that sense, can HTML Table layout be the axiomatic base for all other layouts? What should be axioms for components? Many question yet to be answered. This is just a work in progress. Any XML GUI should address creation of extensions. Right now XUL doesn't provide much in that sense. But that is what we have. So, it is bit premature to strictly follow any schema immediately. The schema we use must be nimble enough to be transformed into another, with XSLT alone. If so, we must not include scripting or templating too much in our GUI definition, as XSLT is not strong there. Maybe a XML should only be a pure data model, and not a mix of scripting and data, as Luxor tries to be. Also instead of pushing data to the code that uses the GUI, they must pull it from the GUI. Only triggering of events could be a reasonable hook to the processing code.
-}
+

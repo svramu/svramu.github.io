@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "I Love Cocoon!"
+categories: [Article]
 ---
 
 A survey of extensible server strategies
@@ -64,4 +65,4 @@ Of course, there are many other tricks for handling Errors, *Views* etc. for whi
 **Epilogue**
 
 Trying to understand the Cocoon project, I happened to stumble upon so many nice projects in Apache Jakarta, that are used by Cocoon. I do realize that what little I've explained here about Cocoon is pathetically cryptic. But, my idea is to start on this survey of distributed server/web strategies, and give you a taste of the motivation behind such notable efforts, in the eyes of a personal experience. To me, the realization that the efforts of my previous team is up-to-date enough, was heart warming. I hope this gives you as much confidence in innovating, as much as it gave us. Soon, I'll try to continue to explore Cocoon, Struts and others, in much more detail. Mainly I'd like to arrive at some unifying architectures, that we can discuss and standardize at TATTVUM, so as not to be put off by so many wonderful upcoming projects and models. So, please do comment.
-}
+

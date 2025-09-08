@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "J2ME and Java Landscape"
+categories: [Article]
 ---
 
 How J2ME programming model relates to J2SE, J2EE and Java in general?
@@ -244,4 +245,4 @@ Following packages and classes are only used. As you'll see, it is a very very s
 
 The following words should be familiar by now.
 
-While Java Card technology enables programs written in the Java programming language to run on smart cards, such small devices are far too under-powered to support the full functionality of the Java platform. Therefore, the Java Card platform supports only a carefully chosen, customized subset of the features of the Java platform. This subset provides features that are well-suited}
+While Java Card technology enables programs written in the Java programming language to run on smart cards, such small devices are far too under-powered to support the full functionality of the Java platform. Therefore, the Java Card platform supports only a carefully chosen, customized subset of the features of the Java platform. This subset provides features that are well-suited

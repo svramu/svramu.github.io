@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to start our own site?"
+categories: [FAQ]
 ---
 
 (2002-04-14)
@@ -41,4 +42,4 @@ title:  "How to start our own site?"
 *   [S V Ramu, 2002-04-14]
 *   You could. Again depending on your ISP vendor, you usually get around 3-10 email id free with your server space.
 *   [S V Ramu, 2002-04-14]
-}
+

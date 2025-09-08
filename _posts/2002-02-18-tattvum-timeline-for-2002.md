@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "TATTVUM: Timeline for 2002"
+categories: [Article]
 ---
 
 The Immediate, and the Directions (An old internal article)
@@ -28,4 +29,4 @@ We will be talking more on profitable areas, their long term relevance and inter
 **Capabilities**
 
 The key goal here is to motivate and sustain a distributed community of online developers, with more stress on local developers who would like to learn and contribute from home, after work, and in spite of it. There should be a healthy dose of distributed developers too. Maybe at 50-50%. The idea is to be ready to take up a project by Q4. People have to be novelly trained, to develop and communicate. We have to practice distributed reliable synchronization, meaningful document work, benchmark for quality, relevance and performance, etc.
-}
+

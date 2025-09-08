@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "'Lead, Follow or Get out of the way!'"
+categories: [Article]
 ---
 
 What is it to be a leader? What it is not?
@@ -69,4 +70,4 @@ In this light a leader is just a genius. Of course we do reserve the word 'geniu
 There are no tips at all. You just know what is out there, know what you need, and if it is your cup of tea, pursue, or else at least be comfortable with what you are. Failure to lead in one field might even be the clue of greatness elsewhere. It also can mean that leadership doesn't enthuse you as much as being a regular honest worker. And I tell you, that it is pretty hard to find people who are mentally settled for non-leadership roles. I like the famous American aphorism 'Lead, follow or get out of the way'. It crisply captures the need for clear cut self appraisal. It doesn't mean that one must not try out things, but that one must know when to stop and give way to others. As everything it is easy to preach than deciding for ourselves. A rule of thumb is to be respectful of other's comment after 40. But before that, when in doubt, err on the adventurous side. Don't renounce too soon. Life is long and you might regret it for some time.
 
 As much as finding the leader in you, you must also equally concentrate on sensing a good leader when you see one. A good leader simplifies life's complexities, he could be a wonderful launching pad, without making you feel guilty of exploitation. You usually cannot miss them, unless your fate so conspires that your ego clouds your eye. Now, ego is no bad word in the leadership business, but it sure is a double edged sword, so handle it with tact. Leadership is not a dish, to have a recipe. It is more a *do-it-by-example* exercise. Forever a trial and error technique. In fact the very starting point of being a leader is the healthy 'why not?!' sort of rebellion. This dare and total disregard for the established norms, is both the inspiration to take up impossible things, and to face up impregnable people. This arrogance is mostly a product of their confidence in their skills, and partly their readiness to face death or any such eventualities, and above all their desperate quest to search for their own identity in heroic deeds and not accepting a surrender without a fight. *Lead, Follow or Get out of the way!*
-}
+

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A night flight to Python"
+categories: [Article]
 ---
 
 First impressions while learning the Python language
@@ -182,4 +183,4 @@ I would like to conclude with the thought provoking words of Eric S.Raymond.
 > There was simply no way I could have pulled off a coup like this in Perl, even with my vastly greater experience level in that language. It was at this point I realized I was probably leaving Perl behind.
 
 I have comfortably elided the remarkable List processing features, other elaborate extensibility features with C, and many more. These are important and you can find them in help documents and various net resources. I only felt that other people's passionate experience can reveal much more in much shorter time, as it was for me. I'll soon complete the full tool, and include it in the TATTVUM PoP Prototype archive.
-}
+

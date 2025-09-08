@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "AJAX Nirvana"
+categories: [Article]
 ---
 
 Patterns and Development Mindset for AJAX
@@ -156,4 +157,4 @@ So learn DHTML afresh. Brush up your JS skills. Clean up your HTML with clear ta
 I don't see how Microsoft can cannibalize this ajax guarantee for a standard based browser. The best way the commercial houses can capitalize on this ajax wave is to build good IDE, to generate WYSIWYG ajax pages. That would be cool, but too unlockable for their taste. But who knows, Microsoft's crafty business people may already have plans.
 
 The patterns for developing total ajax client is too new to be complete here. It is a huge promise, and it is about time the clients get this much attention. So, maybe I'll have one more installment on this, or maybe not. And the code sample given here is just to prove that whole GUI can be built and integrated as a standalone module, and nothing more.
-}
+

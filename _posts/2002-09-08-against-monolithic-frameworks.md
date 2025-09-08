@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Against Monolithic Frameworks"
+categories: [Article]
 ---
 
 In search of the basic building blocks

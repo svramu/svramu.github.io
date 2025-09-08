@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to manage our own site?"
+categories: [FAQ]
 ---
 
 (2002-05-05)
@@ -45,4 +46,4 @@ title:  "How to manage our own site?"
 *   \[S V Ramu, 2002-05-05]
 *   yes there are many. Some like open nuke is based on PHP language. There is Struts from Apache Jakarta in Java. There is also Cocoon etc from apache itself. We haven't explored these fully enough. They do look promising and open. We'll soon have articles on these at TATTVUM. But we are cautious about too much learning overhead. We intend to arrive at a minimalist model, where the architecture is just a few minutes of explanation, but the extension possibilities are myriad. For now a XML-XSL system is most generic, as it could be ported to work with any language of our choice (from Java to PHP). Struts being from Ant's stables, is promising to be a winner. More soon.
 *   \[S V Ramu, 2002-05-05]
-}
+

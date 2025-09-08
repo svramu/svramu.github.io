@@ -2,6 +2,7 @@
 layout: post
 title:  "Effective Use of 'IF'"
 author: ganesh
+categories: [Article]
 ---
 
 Is 'IF', the next generation GOTO ?!

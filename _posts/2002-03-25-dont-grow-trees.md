@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Don't grow Trees!"
+categories: [Article]
 ---
 
 What is NOT the true benefit of OOP?
@@ -82,4 +83,4 @@ A new word means a new shade of understanding. Remember, the number of similar m
     This is a very scholarly looking write-up. Lot of insights are provided regarding the popular problems of OO languages, apart from other things.
 2.  [Java Criticism](https://www.geocities.com/tablizer/javacrit.htm)
 3.  [Shapes Example](https://www.geocities.com/tablizer/shapes.htm)
-    The first link is general link on Java bashing. If you can be open enough, few aspects could be revealing. The second one is a masterly exposition of the ills of Inheritance and trees in general. This article sort of projects Procedures and Classes as duels, which is very novel. There is one other fine article in this site, on superiority of Sets over Tree, I lost that link! I'll find and add it.}
+    The first link is general link on Java bashing. If you can be open enough, few aspects could be revealing. The second one is a masterly exposition of the ills of Inheritance and trees in general. This article sort of projects Procedures and Classes as duels, which is very novel. There is one other fine article in this site, on superiority of Sets over Tree, I lost that link! I'll find and add it.

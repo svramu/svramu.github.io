@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Thinking about Architecture"
+categories: [Article]
 ---
 
 Just a rambling sequence of thoughts about the best idiom for an architecture
@@ -46,4 +47,4 @@ Coming back to stripes and layers, after much thought, it does make sense to kee
 Carpet is too cohesive and continuous for the real software imagination. In real life, for each stripe we have to deploy three executables, one for GUI, Middle and DB tier. If we assume these to be vertices of a lattice then the vertical and horizontal connections are the intra-stripe protocols and inter-stripe protocol respectively. Or better still we can call it as NET model, as the edges need not be straight or perpendicular, as each node can be connected to more than 4 or 6 other nodes.
 
 **And the war goes on...!**
-}
+

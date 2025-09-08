@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Thinking in Threads - 2"
+categories: [Article]
 ---
 
 Analyzing the primitives
@@ -224,4 +225,4 @@ The problem is, the `synchronized` block is less useful when we want to `wait` f
 In this article I did define the `Lock` class with its two basic methods `hold` and `allow`. But after that I've only dissected some of the important aspects of Java threading model, with the new primitive in the background. I did find the new primitive useful in simplifying some aspects of Thinking in Threads, but it is definitely not the elusive primitive I'm searching. The attempt is to compare and contrast various primitives under various thread usage scenarios, till we achieve a *nirvana* in thread. :-)
 
 The Java monitors are interesting. Individually, neither the `synchronized` keyword, nor the `wait` and `notify` methods can satisfy all the locking needs. But together, they give too many ways to accomplish the same thing. Continuing our frugal approach, can we arrive at a synchronization primitive that can do this seemingly impossible task? My analysis continues, so should yours too. Needless to add, this series will continue, and your inputs will be very much appreciated.
-}
+

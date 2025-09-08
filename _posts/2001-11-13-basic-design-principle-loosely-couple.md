@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Basic Design Principle: Loosly Couple"
+categories: [Article]
 ---
 > Separate what is changing from what is not
 

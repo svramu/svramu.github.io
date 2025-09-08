@@ -2,6 +2,7 @@
 layout: post
 title:  "Object Oriented Build Management"
 author: ganesh
+categories: [Article]
 ---
 
 Using Maven 2 to unravel object oriented thinking of build and project management
@@ -86,4 +87,4 @@ Conclusion
 This article brings in another perspective of applying object oriented principles to build management using Maven 2. In summary, we saw about how it helps in code health, configuration management restructuring and libraries management to our advantage, and all of these with our 'sub-project' thinking. It does not cover various nitty-gritty of 'how' each of them can be done using Maven, which can perhaps be a separate follow-up article.
 
 This kind of triggers where else we can apply our bread and butter 'object oriented thinking' and reap its benefits, having applied to build now. While it does look straight forward, its application might require a paradigm shift to what we do already.
-}
+

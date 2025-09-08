@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Launching Now...!"
+categories: [Article]
 ---
 
 Initial directions for the fresh start

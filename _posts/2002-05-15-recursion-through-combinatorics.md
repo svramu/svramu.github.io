@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Recursion through Combinatorics"
+categories: [Article]
 ---
 
 Exploring the complexity of designing and debugging a recursive method
@@ -442,4 +443,4 @@ public static boolean isValid(int col) {
 **Epilogue**
 
 Well, I started off to summarize the whole domain of recursion, including the mutual recursion and some research of its pitfalls and solutions, but could complete only the introduction to the whole subject. This just means that I'll try for one more article in these lines. Just for completion I'm attaching the source code of these examples, which you can tweak and experiment. I'm really sorry that the coding is not up to any standard, except the logic maybe, as they are only quick code hacks. For whatever it is worth, you can download the source code here (~5k).
-}
+

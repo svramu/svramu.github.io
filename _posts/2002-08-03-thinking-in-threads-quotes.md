@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Thinking in Threads (Quotes)"
+categories: [Article]
 ---
 
 Quotes form the great masters
@@ -112,4 +113,4 @@ In any event, the person writing the monitor does not have to be aware of how th
 This process, can wakeup its sleeping partner by doing a SIGNAL *(Notify in Java)* on the condition variable that its partner is waiting on. To avoid having two active processes in the monitor at the same time, **we need a rule telling what happens after after a SIGNAL (call)**. Hoare proposed to let the newly awakened process run suspending other one. Brinch proposed... that a process doing the SIGNAL must exit the monitor immediately. In other words, a SIGNAL statement may appear only as the final statement in a monitor procedure... it is conceptually simpler and is also easier to implement. *(this is not the way Java sees it)* If a SIGNAL is done on a condition variable on which several processes are waiting. only one of them, determined by the system scheduler, is revived *(Java allows both notify() and notifyAll())*.
 
 **The condition variables are not counters. Thus if a condition variable is signaled with no one waiting on it, the signal is lost**. The WAIT *must* come before SIGNAL. ... By making the mutual exclusion of critical regions automatic, monitors make parallel programming much less error prone than with semaphores...(only) a few languages such as concurrent Euclid (Holt 1983) have them, but they are rare. *(include Java now!)*
-}
+

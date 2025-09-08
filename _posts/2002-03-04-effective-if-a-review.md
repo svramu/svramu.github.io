@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Effective IF - A review"
+categories: [Article]
 ---
 
 Thinking aloud on Ganesh's article
@@ -53,4 +54,4 @@ Of these the last three is not fully relevant to us, but still heightens the thr
 *   [Enumerated Types In Java](https://c2.com/cgi/wiki?EnumeratedTypesInJava)
 *   [Polymorphism Vs Selection Idiom](https://c2.com/cgi/wiki?PolymorphismVsSelectionIdiom)
     It is amazing how much this web site has accumulated over years. Very informative and high quality stuff. There are links everywhere, so be choosy.
-}
+

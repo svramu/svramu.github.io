@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What would be Polymorphism in C ?!"
+categories: [Article]
 ---
 
 Trying out function pointers and DLL to mimic Java Interfaces
@@ -197,4 +198,4 @@ One of the more interesting constructs you can create is an array of pointers to
 The array (or a struct if you want) of function pointers is what can be compared to present day class. If a class is a collection of variables and functions, then since a function too can be represented as a (special pointer) variable, we can represent the class as an array of variables and function pointers. Can inheritance then be modeled as adding new function pointers, or replacing a old one?! Of course this doesn't give the elegance that a java like language provides, but for understanding the roots of OOP, function pointers, and arrays of it, is the key.
 
 [Drive Folder](https://drive.google.com/folderview?id=17JYcWXtZ8vy-dw6AX7f54l8hEOlO1vOQ)
-}
+

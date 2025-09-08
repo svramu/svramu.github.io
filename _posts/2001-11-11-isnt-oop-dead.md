@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Isn't OOP dead?"
+categories: [Article]
 ---
 
 The XML and Web Services age

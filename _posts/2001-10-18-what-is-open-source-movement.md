@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What is Open Source Movement?"
+categories: [Article]
 ---
 
 For the new business
@@ -20,4 +21,4 @@ During the early days of GNU, there was another license that was in vogue. It wa
 Many, including myself, might question the government intervention into Microsoft's business, however 'evil' they might be. But we all should realize that monopoly is dangerous. If it hasn't hit you already, it will soon! If government is unable to curb it, society should. OSS is that conscience check for the insane IT market. It is the great leveler, which forces closed monopoly into open collaboration.
 
 Now again where is the money in it! Sun once said, that the modern e-commerce is one of Micro payments, and Large Volume (audience), and not one of closed small markets. That is where the money is. For example, Java is open and free. Yes, not only the Java development kit is free (though not GPL for various reasons), and also its source is open for your perusal. This radical move, created lot of ardent followers to it. And, that was the key. Once support was there, SUN levied a 3% tax on the relevant revenue. This too not on the end customer but the middle development Kit makers. This is not new, earlier, allowing of software piracy was an unsaid technique to popularize a software (shareware and freeware too was in the same spirit). But OSS took this to its logical conclusion. The hidden trick is, to sell more, you need bigger customer base, to get that you need to sell it low, very low. Of course your revenue might go down, but so will everybody else's will. Sometime if you play it right, the bigger volume will almost compensate for your lowered cost. Remember, OSS doesn't mean 'free' money-wise, it just means that the source is open and the buyer can change it. This changed it all.
-}
+

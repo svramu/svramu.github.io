@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "ATANA - Autonomous Transforming Asynchronous Node Architecture"
+categories: [Article]
 ---
 
 An attempt to model any software as a collection of XML transforming nodes
@@ -48,4 +49,4 @@ With all the hoopla about *Network being the computer*, P2P coming up in a big w
 **Keep Java in the background**
 
 I mean, keep all the traditional programming in the background. The idea is to use Java or such like only for generating XML from non-XML sources. For XML to XML transformation, use only XSL (which again is pure XML). How can we model the inter XATAN calls with XML alone? How are we going to handle synchronicity with XML alone? These are open questions right now. With Cocoon like examples (where the XSP like custom XML scripting does the job), we must find a pure standalone transformation based idiom. The goal is to *completely* avoid traditional programing, and use only XSL and our custom declarative model.
-}
+

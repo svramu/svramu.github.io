@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Regular Expressions and Compilers"
+categories: [Article]
 ---
 
 Exploring the reach of RE in the BNF kingdom
@@ -150,4 +151,4 @@ Knowing RegEx and BNF are complementary. The knowledge of one grows on the other
 *   **type-3:** *Regular Language* can notate strings like **a**m**b**n, where m,n>0.
 
 Note here that the example expression of the greater type language cannot be represented in the lesser type. For example, you cannot express the string of the form **a**n**b**n, where n>0, with regular expressions. That is why people say *FSM cannot count*! Though restricted in power than BNF, RE is a compact way for defining identifiers, literals and expressions in a language. JavaCC, thus uses a mix of BNF, RE, and few other concepts like *attribute grammar* to deliver a single grammar file for lexical scanning and parsing. By the way, just to end in a progressive note, the following traditional diagram of compilation is thought provoking.
-}
+

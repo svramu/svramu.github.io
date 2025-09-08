@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What is OOP?"
+categories: [Article]
 ---
 
 An exploration: From the first principle
@@ -76,4 +77,4 @@ This is a very powerful point for OO. This is a beautiful point too, needing an 
 *   The current article is the third review of the above links and that site.
 *   [Don't Grow Trees?!](https://www.tattvum.com/Articles/2002/2002-03/2002-03-31/Ramu-SE-20020325-DontGrowTrees.html)
 *   This link was the second review, accepting and elaborating the Tree bashing of that site.
-}
+

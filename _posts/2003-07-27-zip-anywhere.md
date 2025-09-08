@@ -2,6 +2,7 @@
 layout: post
 title:  "Zip Anywhere"
 author: venu
+categories: [Article]
 ---
 
 Using Java Zip API to automate your compression chores (*K Venu, S V Ramu)
@@ -96,4 +97,4 @@ for(Enumeration entries = zip.entries(); entries.hasMoreElements(); ) {
 For a long time I was procrastinating to write this tool. But when Venu asked for a neat task that can be useful, I gave this. Venu, though a new comer to Java (hardly two months now), but since he was strong in C++, completed this tool within few days, working just in his spare time. Thanks to him, this article and the zip tool (Tattvum-20030727-ZipUnZip.zip) is before you.
 
 To test this tool, run it in a test folder which contain one or more non-empty folders, and then use it for your regular archiving. Please note that this is a very early release, but it works fine with the 300mb+ downloads! Known bugs are, it doesn't handle empty folders (it stops), and unzip needs some tweaking to work with zips created by WinZip. Comments and bug reports are welcome.
-}
+

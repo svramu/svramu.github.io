@@ -2,6 +2,7 @@
 layout: post
 title:  "Scalable Session Management"
 author: ganesh
+categories: [Article]
 ---
 
 Scalable session management strategy for web
@@ -65,4 +66,4 @@ Session Boundary Identification
 **Conclusion**
 
 The total amount of session data in the memory is directly dependent on the number of users, so if we want our system to be scalable, it is imperative to have as little data in the memory, as possible; this is exactly what this article helps us to achieve. Thinking futuristically also we stand to gain. For example, in the current hardware scenario we generally add memory so that the system is tuned to manage the maximum load, so any memory saved with above approach may not pay directly, but when it comes to blades and grid computing where the hardware resource are shared, every bit saved is a bit gained. This article is still incomplete, the design and a reference implementation can be added to this.
-}
+

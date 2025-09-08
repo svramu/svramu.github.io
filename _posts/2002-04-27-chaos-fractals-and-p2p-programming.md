@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Chaos, Fractals and P2P Programming"
+categories: [Article]
 ---
 
 Minimum Rules and Maximum Possibilities
@@ -90,4 +91,4 @@ In this light, the specifications of JINI and JXTA are invitingly simple. They j
 Peer-To-Peer (P2P) networking is trying to completely eliminate the central bottleneck of the present server based paradigms. P2P is also trying to more optimally use the network resources, apart from the fault tolerance criteria. You can look up the JXTA spec and the GridEngine spec of Sun. With JINI they started imagining many redundant service locator servers, but even this is made unnecessary in JXTA (apart from the removal of Java binding, towards XML). JXTA specifies 6 (supposedly simple) protocols (I'm yet to master them) to allow communication between varied peers. They say that the whole core platform code is under 50k (and still reducing). This minimality of core protocols is in many ways, the way to go. The much praised simplicity and focus of the NFS (Network File System) protocol of Sun is very much visible in this network architecture standardization effort too.
 
 The use of simple but Fractal like powerful rules for P2P programming is that, the developers are free to use these rules in many different ways and in many different situations, and thereby creating powerful future systems. Of course this is a utopian dream, but worth the effort, if it is done in a collaborative and open manner. Whenever we create some architecture or a protocol for the Holy Grail of Distributed Computing (or for that matter anything), we need to keep this simplicity and flexibility requirement in mind. Maybe some more in depth study of these invigorating concepts of Chaos and Fractals could make our endeavor that much more success-prone.
-}
+

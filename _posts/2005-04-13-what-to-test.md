@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What to test?"
+categories: [Article]
 ---
 
 What is Mock, Assert, JUnit, and how are they related?
@@ -83,4 +84,4 @@ And hence comes the revelation, that the Unit Tests and the Mock Objects, both a
 To be fair, don't believe what I say above about testing! I haven't yet tested it. Before now, testing was distant to me, even conceptually, though I seek it. From now, it is close to me, but until it is practiced like OO, these thoughts are no reference, except maybe as a starting point of a debate, or maybe an inspiration. Anyway I intend to test these ideas more, and see how much of these seeming clarity is practically useful, for [TDD (Test Driven Development)](https://www.extremeprogramming.org/rules/testfirst.html), and I'll report here if something interesting crops up.
 
 Yet again, this is a fresh inspiration, served hot. It is almost a year now from the last article, and maybe I have to regain my instinct to be more public with my thoughts. Writing articles is a kind of knack, especially if you want to learn from it and not just preach. Blogs makes sense in this context. But all well written blogs are in fact articles, otherwise it is just a valuable form of discussion forum. If adding a personal or egoistical approach makes some thing a blog, definitely these articles are 'Blorticles' (Blog + Articles). Anyway, for now I like the personal space and formalism that these articles provide me, but otherwise I do envy the blog model, and I'm playing the devil's advocate.
-}
+

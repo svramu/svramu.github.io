@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "TJ Ragam - An Overview"
+categories: [Article]
 ---
 
 An Indian style music palyer

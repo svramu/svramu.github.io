@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "XPathDMM - XPath Document Memory Model"
+categories: [Article]
 ---
 
 A simple alternative to W3C's object based DOM

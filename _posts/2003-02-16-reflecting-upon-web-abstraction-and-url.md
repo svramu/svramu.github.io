@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Reflecting upon Web Abstraction and URL"
+categories: [Article]
 ---
 
 URL is the key user perspective about an web application
@@ -62,4 +63,4 @@ So, to accomplish this complete URL separation to our application, we must allow
 **Epilogue**
 
 I must tell that these thoughts started from my first attempt at creating an redistributable web application. For all I know, these ideas might be already practiced by the veterans in this field. All the same I tried to explains the details of the route I took. Moreover I wanted to share this exciting understanding that the web model is trying to give all the API (Application Programming Interface) like capabilities through URL.
-}
+

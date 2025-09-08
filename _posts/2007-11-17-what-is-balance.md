@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What is Balance?"
+categories: [Article]
 ---
 
 We can learn cycling, hence we can learn anything!?
@@ -175,4 +176,4 @@ OOP brings in a whole slew of balancing acts. Class, Objects, Encapsulation, Inh
 **Learning to Learn**
 
 Sometime back, I realized my good fortune of being able to learn varied things. All distinct and all needing a Balance. I was terrified that it was all a fluke. Poems, Portrait drawing, Raga Identification, Flute, Calculus, and what was the common thread in all? A Genius? Practice? Fluke? No, the unconscious realization, that all these are balance and I persisted long enough to get the balance. Learning and seeing a balance is both beautiful. Balance is magical and non-trivial. It can look simple but yet not immediately imitate. Yes maybe it is possible to get it immediately as it is a snap, and that can happen anytime the right cues are in. But what are the right cues? That is where the mystery starts, and teaching ends. It is more easy to learn than to' teach'! Though to teach is a clear concept, conventionally it is used even for helping to memorize, where a book is enough. A teacher is to 'teach', not to be a walking dictionary or memory aid. With computers, this is becoming more obvious.
-}
+

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "'OOP Oversold'?"
+categories: [Article]
 ---
 
 A critical analysis of an anti-OO site

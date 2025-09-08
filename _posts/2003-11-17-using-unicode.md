@@ -2,6 +2,7 @@
 layout: post
 title:  "Using Unicode"
 author: senthil
+categories: [Article]
 ---
 
 A first hand report on using Unicode with XML
@@ -33,4 +34,4 @@ After doing some research and by searching in Google, an easy way was found to s
 **Mission complete**
 
 The storing of Unicode in database went without any qualms. But we were still stuck with the set back one: junk XSLT output. We tried to set the encoding to 'utf-8', 'utf-16' and so on... But at last our problem came to end when we set the encoding to 'iso-8859-1'. Finally, we stored the linguistic data in database, instead of a static XML file, and thus only one transformation was required, to the required regional language.
-}
+

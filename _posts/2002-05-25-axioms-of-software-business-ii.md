@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Axioms of Software Business - II"
+categories: [Article]
 ---
 
 No final decisions yet, just thinking aloud
@@ -44,4 +45,4 @@ What are the minimal design and performance metrics that we need? Maybe we an sa
 **Epilogue**
 
 I'm fully aware that this article is only a brain dump of my FAQ. I fully believe that this mode of using the portal for first impression discussion, or thinking aloud, is useful in lonely future of computing. This also could make us much more disciplined in our thinking, as we are sharing much more intimate thought process with others. Any comments will be most welcomed. Soon we will make the collective responses into FAQ and CheckLists.
-}
+

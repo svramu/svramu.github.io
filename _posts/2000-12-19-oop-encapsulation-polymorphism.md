@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "OOP = Encapsulation + Polymorphism"
+categories: [Article]
 ---
 
 An overview on Object Oriented Programming

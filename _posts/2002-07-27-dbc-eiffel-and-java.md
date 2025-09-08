@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "DBC, Eiffel, and Java"
+categories: [Article]
 ---
 
 A survey of the 'Design by Contract' paradigm
@@ -192,4 +193,4 @@ Java is still an unproven entity for large projects (in 1996), and the byte code
 In a nutshell, an object-oriented language that lacks the qualities of a high level language entirely misses the point of why we have progressed from machine coding to symbolic assembler and beyond. Without the essential high level qualities, OO is nothing but hype. Eiffel shows that it is important to be high level as well as OO, and I hope that the lesson to be learned by any programming paradigm, not just OO, is that the fundamental is to make the task of programming (that is system development as a whole) easier by the removal of the burden of bookkeeping.
 
 **My hope is that the industry establishes a professional software engineering culture, not a programming language culture** based on seriously flawed and arcane languages. The software engineering culture is not well represented in C++. - Ian Joyner - October 1996
-}
+

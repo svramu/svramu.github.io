@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The 'final' trick"
+categories: [Article]
 ---
 
 Helping the Java compiler to optimize the class file generation (2003-05-17, 2003-06-08)
@@ -189,4 +190,4 @@ Well, this is a fertile topic in its own right, and I intend to relate to it, mo
 This all started with my problems with maintaining and optimizing my debugging related logging facility. But the Java language spec enlarged my understanding to the compatibility issues. Then the natural comparison to asserts and AOP was inevitable. Above all this article also cleaned my rusty understanding of C preprocessors. I fully understand that I've only touched upon the various related things of Java's `static final` modifiers. But the goal is to stress the optimizing hints associated with the Java's `final` keyword.
 
 Off late my interest in C/C++ is growing. I'm slowly rediscovering both its primitiveness and also its power. C/C++ really complements Java very nicely. Its availability and native reach can be fully reaped through Java's simple and elegant JNI model. More on these in future.
-}
+

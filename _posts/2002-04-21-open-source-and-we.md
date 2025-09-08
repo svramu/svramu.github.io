@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Open-Source and We"
+categories: [Article]
 ---
 
 A survey on Open Source Software and their relevance
@@ -120,4 +121,4 @@ True to the spirit of internet, this time I'll be just giving few keywords for y
 *   [Ganesh C Prasad Kaivo Open Source Linux](https://www.google.com/)
 *   I once read his (Ganesh C Prasad) sweeping article in some site called Kaivo (or kavio?), which specialize on Linux and other OSS.
 *   [Project Guttenberg hart free online books](https://www.google.com/)
-*   This is a massive free project to convert all copyright expired books as text files and as xml files (HTML writer's guild). You can get the whole works of Cannon Doyle, Jane Austen etc.}
+*   This is a massive free project to convert all copyright expired books as text files and as xml files (HTML writer's guild). You can get the whole works of Cannon Doyle, Jane Austen etc.

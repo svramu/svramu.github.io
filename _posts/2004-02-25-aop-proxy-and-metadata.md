@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How AOP is already possible in Java?"
+categories: [Article]
 ---
 
 **Prelude**
@@ -102,4 +103,4 @@ This non-server requirement subtly changes this interception game, and possibili
 Check out [DynAOP](https://dynaop.dev.java.net/). I discovered this after going into proxy. But it does promise to be better than palin Java `Proxy`. Of course, Proxy is as minimal as you can get.
 
 After the long wait for 1.5, we have to wait for 1.6 now. Java IS interesting! Let us hope that the recent [press release](https://www.eweek.com/article2/0,1759,1560909,00.asp) with Microsoft, is only for Java's good, if not for Linux. Few more interesting ideas and debates are brewing. I hope, I can share it soon. Man! if at all you want to learn new things, don't go hunting for a new teacher, just stick your head for new problems. Believe me when I say, that necessity is the mother of invention.
-}
+

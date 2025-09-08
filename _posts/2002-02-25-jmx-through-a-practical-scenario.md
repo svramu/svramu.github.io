@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "JMX: Through a practical scenario"
+categories: [Article]
 ---
 
 An example based analysis
@@ -212,4 +213,4 @@ Sometime a given grouping scheme might be exhaustive: In the sense, that every t
 **The Rest**
 
 I feel, the details of deploying these MBeans in reality, and *Managing* them, is conspicuous by its absence. I have not talked directly about it because this can vary greatly between implementation. Currently I know only JBoss has implemented it prominently, and of course the reference implementation is there. Sometimes I feel, that J2EE team, having standardized everything that is traditionally considered a server side infrastructure, are now branching off into new domains, where they think standards could be common, yet there is space for implementation competition. JMX page says that it is a continuation of a similar older product from sun. Anyway, JMX is still too young, though promising. I believe the motivations behind a concept are tougher to comprehend, more than the implementation themselves.
-}
+

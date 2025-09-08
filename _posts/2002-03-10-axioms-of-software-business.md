@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Axioms of Software Business"
+categories: [Article]
 ---
 
 An attempt towards decisive goals
@@ -97,4 +98,4 @@ After all, Software business is a knowledge business, both the boss and the team
 The project succeeds or fails purely because of the chief architect's management. And this management itself is dependent on the parallelized architecture of the project. Which in turn depends on the proper and complete understanding of the requirement of that phase of development. There are of course, many more angles to be considered but this remains the core of the whole process.
 
 Of course, this is not any final word, but definitely good enough directions for me to start with. What I started for was a reference point, which can give me some bearing in the day-to-day compromises. That I think is there now. Yes, there are many important details hanging in looses strands, which I hope can be tidied up, with the more help and experience.
-}
+

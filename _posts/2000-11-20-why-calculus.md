@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why Calculus?"
+categories: [Article]
 ---
 
 Volume of Sphere & Calculus: From a layman's point of view (-Version 2.0-)
@@ -391,4 +392,4 @@ To understand that, see the figure in this section. You can notice that,
 
 (The area between x=a and x=b under f(x)) = (The area between x=0 and x=b) - (The area between x=0 and x=a)
 
-Of course assuming that a<b, we can reduce the problem of definite integral to one of subtracting areas. A powerful result, always reminding us of the geometric origin of the definition. In calculus, as in other fields, it is very important that we constantly be aware of the definitions and other assumptions, and not be carried away by the}
+Of course assuming that a<b, we can reduce the problem of definite integral to one of subtracting areas. A powerful result, always reminding us of the geometric origin of the definition. In calculus, as in other fields, it is very important that we constantly be aware of the definitions and other assumptions, and not be carried away by the

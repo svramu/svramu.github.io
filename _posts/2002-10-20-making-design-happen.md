@@ -2,6 +2,7 @@
 layout: post
 title:  "Making design happen"
 author: ganesh
+categories: [Article]
 ---
 
 On managing change that could affect the design
@@ -35,4 +36,4 @@ An immaculate design is only in books and in very small projects, spending too m
 Architect or designer or a project manager or who ever is responsible for the design (let us call him a 'lead') for the enforcement of the design need to have full control over the development team as well. Nobody is infallible; there could be always some problem in the suggested design. It is not imperative to get the design right the first time, but it is imperative to improve the design along with the changes that happen to the code. The lead needs to have what is called '*Control Points*' in the development life cycle where the developers come back to the lead in case of any problems or issues that might effect the design(not necessarily affect), instead of just going ahead with the development.
 
 The lead can then validate the design and should suggest change for making the code better in the current scenario. It is lead's responsibility to enforce a healthy *feedback control system*, so that the changes made to the code are with the same theme and philosophy that was originally thought of and yet jelling well with the new changes that happened.
-}
+

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Parallelism - The goal of planning"
+categories: [Article]
 ---
 
 An analysis on the goal and role of Project Planning and Designing
@@ -68,4 +69,4 @@ I realize that I've talked as much about everything as I should be about paralle
     I'm constantly stimulated by this concept of Testable Requirements as a way for project scoping. We need to think about this much more before we incorporate it into TATTVUM model for simple and effective SE practices.
 2.  [Reuse Release Equivalence Principle (R.C.Martin)](https://www.objectmentor.com/publications/granularity.pdf)
     This is a very fine article by Robert C. Martin, which discusses RREP among other key granularity based principles.
-}
+

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Automate: Not at the cost of Freedom"
+categories: [Article]
 ---
 
 Simple suggestions on SCM tools and versioning
@@ -36,4 +37,4 @@ I intend to test these ideas on the TATTVUM open-source software releases, and t
 [Reuse Release Equivalence Principle](https://www.objectmentor.com/publications/granularity.pdf)
 
 This is a very fine article by Robert C. Martin, which discusses RREP among other key granularity based principles.
-}
+
