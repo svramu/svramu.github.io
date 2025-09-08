@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "PoPP - Tattvum Article Template"
+categories: [PoPP]
 ---
 
 **Introduction**

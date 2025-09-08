@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Arduino? Good. Then?"
+categories: [Home, Article]
 ---
 
 Post date: Aug 05, 2010 10:35:3 AM
@@ -64,4 +65,4 @@ So again back to Prakash, and a helper stint in a [workshop](https://www.simplel
 Oh yea I dream more now (does it ever stop?). How about a color sensor based Master mind game? Oh yea, as usual others have done it already, but still a worthy goal. And I want my motors. Motors are scary because it needs extra things like controllers, else my board can burn (no never), and motors ain't cheap. But for all things moving, motors are the key movers.
 
 So, people who can, do it; who cannot, will teach; and who cannot even do that, will write about it. And here I'm story telling, what I know best. Go man, stop whining, fire some motors, blend the software cloud with arduino, make some net connected gadget... (dream on).
-}
+

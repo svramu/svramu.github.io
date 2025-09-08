@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Equalities with Sums of Powers"
+categories: [Home, Article]
 ---
 
 Post date: Dec 19, 2009 2:11:53 PM
@@ -104,4 +105,4 @@ Instead of going more rigorous, we can see the pattern is:
 A  |<sub>1</sub> V  |<sub>2</sub>  VA  |<sub>3</sub>  VAAV  |<sub>4</sub>  VAAV AVVA  |<sub>5</sub>
 
 Here say, if A = 14 - 23 then V = 23 - 14, is the reverse. Attaching a ruby script (SumOfPowersEqualities.rb) for generating this logic. You can direct the std out to a html file (say **ruby SumOfPowersEqualities.rb > soap.html**).
-}
+
