@@ -26,6 +26,8 @@ Let us analyze and solve this riddle (an obvious fallacy isn't it?). To that end
 
 Now the puzzle is, if the sum of this series is infinity, it means that Achilles can never win, because then, Achilles would be forever catching up with the tortoise! But, of course this is not true in reality! So, what is wrong? See closely! Does the sum of this series equals infinity? How to prove this, without resorting to some hi-fi math? But, how can the sum of infinite things (however small), can be anything but infinity?!
 
+![Tortoise](/assets/images/Why Calculus/why-calculus-1.gif)
+
 Consider, a one-meter stick. Break it into two. Put one piece into your pocket, and break the other half into two. Again, do the same, keep one of the resulting quarter piece in your pocket and break the remaining quarter into two again. And continue doing this ad infinitum. Will this infinite process of breaking-into-two result in a stick that is larger than what we started (i.e. One meter)? Never! That is the clue. In fact, the total length of the pieces in your pocket can never be more than One! Thus we can say, that *after* the infinite steps, the total size in the pocket will be *exactly* equal to One! Thus, 1/2 + 1/4 + 1/8 + 1/16 + 1/32 + 1/64 + ... = 1
 
 Hence the *proof*! The simple fact is that the tortoise will be ahead of Achilles, for only a distance of One meter after the start, after which Achilles will out run it. (In reality, the tortoise cannot manage the lead for even few centimeters, as its speed is many times slower than even us).
