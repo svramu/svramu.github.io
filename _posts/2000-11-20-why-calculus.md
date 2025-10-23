@@ -434,6 +434,6 @@ In this sense, Reinventing the wheel has its own usefulness for human understand
 
 **References**
 
-[Analytical Geometry & Calculus](http://www.google.com/)
+[Analytical Geometry & Calculus](https://www.google.com/)
 
 This is a book by Thomas and Finney. A masterpiece. It does cover the topics that are explained here, and lot more. The only benefit of this article would be its personal nature, tone and the simple sequence.
