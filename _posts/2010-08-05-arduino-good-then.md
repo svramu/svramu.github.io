@@ -6,6 +6,12 @@ categories: [Article]
 
 Post date: Aug 05, 2010 10:35:3 AM
 
+<img src="./assets/images/Arduino Good Then/590e64be042931886e7e5a846183bab5.jpg" width="150px">
+
+thing
+
+![](/assets/images/Arduino Good Then/590e64be042931886e7e5a846183bab5.jpg)
+
 At last, after an year of drooling, confusion, latter some desperation, and then some desperado, I'm into micro-controllers now! [Arduino](https://www.arduino.cc/) to be precise, and Atmel's [ATMega168](https://goog_1082880848) if you want the heart of it. Come to think of it, one year is pretty quick in my time scale of learning new stuff. I have languished far longer to learn some other things. All the same, the journey has just began, and miles to go before I can be an happy camper in the embedded electronic world.
 
 Oh yea, I sure don't know why I tread this new long path of micro-controllers now (mid-life crisis? but then I have had one 'crisis' after another all my life), and surely not sure how much focus I'm willing to give it. Did I knew that, when I was a toddler (young at 20) doing Fibonacci series with BASIC? Nah! It never seem to change, you scratch an itch, that leads to something, then something, then you just wonder how you have been with out. I'm quite sure it will not lock out my other interests (it is bit scary you know?! I think about circuits, motors, in the middle of the night).
