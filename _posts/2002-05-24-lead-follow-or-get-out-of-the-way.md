@@ -8,6 +8,8 @@ What is it to be a leader? What it is not?
 
 **Prelude**
 
+<img src="/assets/images/Lead Follow or Get out of the way/056fdabacc1d606d09b94e5e58610101.jpg" alt="lead follow" width="150px">
+
 I hope many of you have come to a stage where you take everything in life with the legendary *pinch of salt*. A right state to be, in my humble opinion. Contrary to being a pessimistic state of mind, this is in fact a productive mindset. Honestly, stereotyping notwithstanding, there is good and bad in everything. Just placing ourselves in different roles, to which the life forces over time, broadens our mind to ills of others and especially to the strengths of people around us. So many times have I found that planning is impossible without enough experience, but plan we should, with this caution in mind. What is the difference between planning with the thought that 'we have to plan it best', to a mindset which vows 'not to repeat our past mistakes'? The first state is groggy with dreams, but the second has its feet squarely on earth, and this makes all the difference.
 
 **How is a leader born?**
