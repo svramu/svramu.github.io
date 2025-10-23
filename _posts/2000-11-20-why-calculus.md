@@ -26,7 +26,7 @@ Let us analyze and solve this riddle (an obvious fallacy isn't it?). To that end
 
 Now the puzzle is, if the sum of this series is infinity, it means that Achilles can never win, because then, Achilles would be forever catching up with the tortoise! But, of course this is not true in reality! So, what is wrong? See closely! Does the sum of this series equals infinity? How to prove this, without resorting to some hi-fi math? But, how can the sum of infinite things (however small), can be anything but infinity?!
 
-![Tortoise](/assets/images/Why Calculus/why-calculus-1.gif)
+![](/assets/images/Why Calculus/why-calculus-1.gif)
 
 Consider, a one-meter stick. Break it into two. Put one piece into your pocket, and break the other half into two. Again, do the same, keep one of the resulting quarter piece in your pocket and break the remaining quarter into two again. And continue doing this ad infinitum. Will this infinite process of breaking-into-two result in a stick that is larger than what we started (i.e. One meter)? Never! That is the clue. In fact, the total length of the pieces in your pocket can never be more than One! Thus we can say, that *after* the infinite steps, the total size in the pocket will be *exactly* equal to One! Thus, 1/2 + 1/4 + 1/8 + 1/16 + 1/32 + 1/64 + ... = 1
 
@@ -238,6 +238,8 @@ Do you see the power! We shall need these analysis and techniques in finding the
 
 **Volume of Sphere Revisited**
 
+![](/assets/images/Why Calculus/why-calculus-2.gif)
+
 Now you are going to witness a powerful technique, which trace back to a time, long before that of Newton's. The idea is to split a continuous thing into infinite number of discrete things. This is a very natural idea. Imagine, you want to find the area of an irregular figure. How will you do it? One nice idea is to divide the irregular figure into a grid of small squares and then add them up. The smaller the squares, higher your accuracy will be. If the area of squares *tends to zero*, then the number of squares *tend to infinity*, and hence the area is *exact*! Here, divide one half of the sphere into *n* circular disks of equal thickness. So the thickness of each disk will be R/n, where R is the radius of the sphere. Also the radius of the k-th disk can be found by the famous *Pythagoras Theorem* (Square of the hypotenuse equals the sum of the squares of the other two sides. How?!). Here,
 
 R² = r² + (k . R/n)²
@@ -304,6 +306,8 @@ At last, we have found the Volume of Sphere! Note it, we haven't used any Calcul
 
 **The Newton's Genius**
 
+![](/assets/images/Why Calculus/why-calculus-3.gif)
+
 Enter Newton! And this whole process was simplified through Integral Calculus. The beauty of the above algebraic method of finding the Volume of Sphere is, it doesn't use any unsaid concept. In fact you can, if you want, altogether abolish calculus, and use this technique of *summing an infinite series over a limit* for all your needs. But that would be rather painfully tedious, since there are some simple patterns in the concept of limit itself, that we can use, to simplify. Remember, *the jargons and techniques of calculus are just, short forms for summing an infinite series over suitable limit*. No more, and no less. Now, let us finish off the holy grail of any higher secondary student, that of finding the relation between the ordinary algebra, and calculus. To me, this facet took lot of time to be intelligible. In retrospect, the trouble is in coming to terms with the obvious. The answer was really right before my eyes, yet I didn't believe, as it looked too simple to be true. Yes, calculus is really a short form for *summing convergent infinite series*, which happens to be translating itself as *area under the curve*, geometrically.
 
 Very simply put, integral f(x)dx, between x=a and x=b (b>a) can be *defined* as, the area under the curve f(x), between a and b. Remember, a *Definition* is only an alias. No new truth is in there, just a sweet name in place rambling details. Note too, that a proper definition, clarifies immensely. Many a time, a good definition almost has the same clout as that of an *Axiom*, which is in fact a distillate of knowledge, that can make or break a science. These building blocks take lot of time to evolve, but once done, the problem picture becomes lot clearer.
@@ -366,6 +370,8 @@ Hoping that you know that, ∫ xⁿdx = x⁽ⁿ⁺¹⁾/(n+1)
 
 The last section's goal was to relate the modern Integration techniques with the bygone *summing convergent series* technique, through finding the volume of a sphere. But, Integration demands its own attention too. We'll now try to bridge this gap between the old-intuitive discrete methodology to the new-elegant integral technique, by exposing their relation in various angles.
 
+![](/assets/images/Why Calculus/why-calculus-4.gif)
+
 The key concept that irritates a calculus student is the concept of *Indefinite Integral*. If Definite Integral (i.e. between limits a and b) means the area under the curve between the x=a and x=b, then what does Indefinite Integral (with no lower or upper limits specified) mean? This is an important question. As you will see the answer is obvious (in hindsight). The deeper doubt in this question is, if we are to assume only the definition that *Integration is just a handy abbreviation for the summation of some suitable convergent series*, and not use any of the modern results of integrals (which use differentiation and other tools, hitherto un-discussed here), then how are we to define a limit less Integration in terms of summation?! In the last section, we said,
 
 ₐ∫ᵇ f(x)dx = lim ₙ → ∞ ∑ₖ₌₁ⁿ h.f(k.h), *where h=*(ᵇ⁻ᵃ)/ₙ
@@ -394,4 +400,40 @@ To understand that, see the figure in this section. You can notice that,
 
 (The area between x=a and x=b under f(x)) = (The area between x=0 and x=b) - (The area between x=0 and x=a)
 
-Of course assuming that a<b, we can reduce the problem of definite integral to one of subtracting areas. A powerful result, always reminding us of the geometric origin of the definition. In calculus, as in other fields, it is very important that we constantly be aware of the definitions and other assumptions, and not be carried away by the
+Of course assuming that a&lt;b, we can reduce the problem of definite integral to one of subtracting areas. A powerful result, always reminding us of the geometric origin of the definition. In calculus, as in other fields, it is very important that we constantly be aware of the definitions and other assumptions, and not be carried away by the complex looking expressions, steps and symbols.
+
+This reminds me of an anecdote of Feynman (a noble laureate in physics). It seems that he was giving a lecture to a distinguished audience which had Einstein, Bohr and such like. Feynman was uncomfortable with the physical interpretation of a step in his derivation. He was already legendary for his superior usage of mathematics for physics. Moreover his lecture was planned for a couple of hours. So, he thought, that this miniscule step could be overlooked for now. Thus, the lecture went on and finished well. The question time started. It seems that the very first question from Einstein was about the doubtfulness of the very same miniscule step! Feynman was astonished. He asked Einstein (already a revered octogenarian) how he could single that very problem out of a couple of hours of intense deep-math lecture? The reply was, that mathematics is only an expression of the physicist, whose primary objective is to model the given physical problem. (I'm truly not worried about the authenticity of this anecdote, but am willing to subscribe to the fact that, as long as we are fully aware of the motivation and significance of a symbol, a definition, an axiom, or a concept, nothing else matters. A derivation or proof is only an expression of our inner conviction that something is true. Long before a proof or a theory is spelt out, the mind has already seen it. Mind doesn't use symbols and expressions alone to come to a conclusion. Understanding is much more than knowledge.)
+
+Another question that haunt us is, what is the significance of dx? The answer is: just to hint us what is the variable with respect to which we are integrating. Yes, in the modern method of finding the value of an Integral, dx does not play any active role other than tagging the variable of integration. But for formulating a real-life problem, from convergent series notation to integral, this dx is the buoy, which hints us about the whereabouts of the breadth of the rectangles of summation (lengths being the function f(x)).
+
+**Integration is Anti-Differentiation**
+
+![](/assets/images/Why Calculus/why-calculus-5.gif)
+
+Up till this alone is enough to satisfy a high schooler about the real-time relevance of calculus. Since they already would have gone through the mill of finding integrals, without knowing how it relates to the problem at hand. Still, one more thing can be of good use. If you remember, we used summation of series, and limits, to calculate the volume, and hence the integral. But, if we have to do that always, that looks bit unwieldy. It is! I heard that it was indeed done this way sometime back in history, but latter an amazing inverse relationship was found with Differentiation (another facet of calculus, ie. limits). Differentiation happens to be a rather simple in computation, and hence asserting that Integration is inverse of Differentiation, reduced lot of efforts. Almost always you can just manipulate a differentiation in reverse and find the corresponding Integral value. If you need to know how a given integral is derived, you can consult any calculus book, and get a good picture. We will only clarify the Integration's relation with Differentiation. Here, Δx.(y) ≥ ΔA ≥ Δx.(y-Δy)
+
+∴ y ≥ ΔA/Δx ≥ y-Δy
+
+∴ y ≥ limΔx→0 ΔA/Δx ≥ y
+
+∴ ΔA/Δx = y
+
+But we know, A = ∫y Δx
+
+Hence, Integration is reverse of Differentiation! Ok, ok, I'm not as elaborate as I have been, and I'm not going to be in this case. The concept of Differentiation is another eye to calculus. A poem in it its own right and should be enjoyed separately. It can take an essay by itself. However, it is lot more obvious to a discerning mind, than Integration. But the point to whet your appetite is, that since Integration is Anti-Differentiation, which is simpler, you could discover the value of integral by retracing the path of the differentiation. Maybe, now you have to solve some problems, to make all these concepts concrete.
+
+**Epilogue**
+
+The aim of this article is not to train you in solving problems on limits, integration or differentiation, but only to put all these in perspective, and relate each other. Once the concepts are clear and placed, the techniques, formulas are just modalities. Of course they too require attention and appreciation, so please dip into them with all care.
+
+Learning a field is a science and art by itself. You can see the techniques involved in it, once you learn sufficiently many different fields. Thereby you learn the invariants of learning, and hence apply it for learning a completely new thing. One constantly recurring theme is to find a basic question, the answer to which forms the proof for the existence of the field itself. Getting this question is not too tough. All you need to do is to suspect the very requirement of this new field for human knowledge. Try your level best to circumvent using any of the new field's tricks and go from the first principles. You'll soon arrive at a point, where you find the real need for this new field. Of course, if you are persevering, creative and lucky enough, you might be trail blazing a new science. Even otherwise, you loose nothing, you would have learned the subject so well in this process, that you could have never done so, had a book been given to you, and asked to write an exam in it.
+
+Maybe, if the present day schooling concentrated more on learning, enjoying and researching, than on getting to know lot of facts, we might be progressing much faster. I have myself witnessed, that this knack of asking too many unconventional questions, and re-inventing sciences, not only solves a given problem, but becomes a habit and helps me solve newer problems (in hitherto unconnected domains). This is sort of a simulated, fast forward reinvention. If calculus had taken 200 years to evolve and 200 more years to mature. We might take just around 2 weeks or 2 months to re construct the whole drama, if we are willing. Of course, never hesitate to read a book on it, but also be aware not to use anything which you have not understood.
+
+In this sense, Reinventing the wheel has its own usefulness for human understanding. Maybe we can only say, that do your re-inventions consciously, not as a lifetime pursuit, if you do find some new paths, do refer constantly (maybe occasionally?) to the available literature, to help you not waste too much by going too far through a well trodden path. Well, as somebody said, that a philosophy put in a nutshell stays there. The art of learning, to put it simply, is an art. How much ever you study, how much ever it can be simplified, you can never substitute a personal passion or passionate practice. Get your hands dirty, perfection is not too far (or, is it far, and it doesn't matter?)!
+
+**References**
+
+[Analytical Geometry & Calculus](http://www.google.com/)
+
+This is a book by Thomas and Finney. A masterpiece. It does cover the topics that are explained here, and lot more. The only benefit of this article would be its personal nature, tone and the simple sequence.
