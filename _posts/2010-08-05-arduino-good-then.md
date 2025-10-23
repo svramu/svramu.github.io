@@ -6,7 +6,7 @@ categories: [Article]
 
 Post date: Aug 05, 2010 10:35:3 AM
 
-<img src="/assets/images/Arduino Good Then/590e64be042931886e7e5a846183bab5.jpg" width="150px">
+<img src="/assets/images/Arduino Good Then/590e64be042931886e7e5a846183bab5.jpg" alt="arduino" width="150px">
 
 thing
 
