@@ -5,8 +5,6 @@ date: 2026-02-25 06:00 +0530
 categories: [Article]
 ---
 
-Post date: Feb 25, 2026 06:00 AM
-
 <img src="/assets/images/2026-02-25-agentic-is-dead/ai-overview.jpg" alt="ai-overview" width="300">
   
 Last night, I vowed to go big and model the whole of enterprise software as an agentic system.
