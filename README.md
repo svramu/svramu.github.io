@@ -60,6 +60,9 @@ This work is published under [MIT][mit] License.
 
 ## Notes
 
+svramu.github.io/_posts/2026-05-03-long-live-agentic-ai.md
+(Long live the Agentic AI! Volte-Face. Mea culpa.)
+
 svramu.github.io/_posts/2025-09-06-management-do-unto-others.md
 (Management: Do unto others...)
 (Nice tile, but no article... not even in orig...)
